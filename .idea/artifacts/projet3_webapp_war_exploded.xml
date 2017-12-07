@@ -1,0 +1,27 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="projet3-webapp:war exploded">
+    <output-path>$PROJECT_DIR$/projet3-webapp/target/projet3-webapp</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="projet3-webapp" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="projet3-business-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="projet3-business" />
+          </element>
+          <element id="archive" name="projet3-consumer-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="projet3-consumer" />
+          </element>
+          <element id="archive" name="projet3-model-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="projet3-model" />
+          </element>
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="projet3-webapp/web/Web" />
+    </root>
+  </artifact>
+</component>
