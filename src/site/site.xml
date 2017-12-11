@@ -23,5 +23,14 @@
         <menu ref="parent" inherit="top"/>
         <!-- Ajout d'un menu vers les différents modules du projet -->
         <menu ref="modules" inherit="top"/>
+        <menu ref="reports" inherit="top" />
+
+        <menu name="Documentation">
+            <!-- Entrée de menu vers la page Architecture -->
+            <item name="Architecture" href="architecture.html"/>
+            <!-- Entrée de menu vers la page FAQ -->
+            <item name="FAQ" href="faq.html"/>
+        </menu>
+
     </body>
 </project>
