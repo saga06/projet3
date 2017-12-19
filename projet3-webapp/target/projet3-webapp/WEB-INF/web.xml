@@ -4,4 +4,13 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
+    <servlet>
+        <servlet-name>test</servlet-name>
+        <servlet-class>org.oc.escalade.webapp.test</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>test</servlet-name>
+        <url-pattern>/bonjour</url-pattern>
+    </servlet-mapping>
+
 </web-app>
