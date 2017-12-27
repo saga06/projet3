@@ -6,126 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc21b869-51e4-416e-83d2-aea4bb2d049d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_dbcp2_2_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_9_4_1212.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_sisu_sisu_guice_noaop_2_1_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_sisu_sisu_inject_bean_1_4_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_11_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_11_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_11_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_11_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_11_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_11_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_11_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_11_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Spring_4_3_13_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/projet3-batch/src/data/conf/db-projet3.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/projet3-consumer/src/main/java/org/oc/escalade/consumer/contract/dao/ProjetDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/projet3-consumer/src/main/java/org/oc/escalade/consumer/impl/dao/AbstractDaoImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/projet3-consumer/src/main/java/org/oc/escalade/consumer/impl/dao/projetDaoImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/escalade/webapp/accueil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/escalade/webapp/topos.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/sites/Length.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/sites/Point.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/sites/Sector.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/sites/Site.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/sites/Way.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/resources/applicationContext.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/resources/org.oc.escalade.projet3.webapp/webappContent.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/META-INF/content.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/menu.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/sites.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/topos.jsp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/index.jsp" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/projet3_webapp_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/projet3_webapp_war_exploded.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/pom.xml" afterPath="$PROJECT_DIR$/projet3-batch/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/projet3-batch.iml" afterPath="$PROJECT_DIR$/projet3-batch/projet3-batch.iml" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/projet3-batch-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/projet3-batch/target/projet3-batch-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/index.html" afterPath="$PROJECT_DIR$/projet3-batch/target/site/index.html" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/plugins.html" afterPath="$PROJECT_DIR$/projet3-batch/target/site/plugins.html" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/project-info.html" afterPath="$PROJECT_DIR$/projet3-batch/target/site/project-info.html" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/project-summary.html" afterPath="$PROJECT_DIR$/projet3-batch/target/site/project-summary.html" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/surefire-reports/TEST-org.oc.escalade.batch.AppTest.xml" afterPath="$PROJECT_DIR$/projet3-batch/target/surefire-reports/TEST-org.oc.escalade.batch.AppTest.xml" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/surefire-reports/org.oc.escalade.batch.AppTest.txt" afterPath="$PROJECT_DIR$/projet3-batch/target/surefire-reports/org.oc.escalade.batch.AppTest.txt" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/projet3-business.iml" afterPath="$PROJECT_DIR$/projet3-business/projet3-business.iml" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/projet3-business-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/projet3-business/target/projet3-business-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/index.html" afterPath="$PROJECT_DIR$/projet3-business/target/site/index.html" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/plugins.html" afterPath="$PROJECT_DIR$/projet3-business/target/site/plugins.html" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/project-info.html" afterPath="$PROJECT_DIR$/projet3-business/target/site/project-info.html" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/project-summary.html" afterPath="$PROJECT_DIR$/projet3-business/target/site/project-summary.html" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/surefire-reports/TEST-org.oc.escalade.business.AppTest.xml" afterPath="$PROJECT_DIR$/projet3-business/target/surefire-reports/TEST-org.oc.escalade.business.AppTest.xml" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/surefire-reports/org.oc.escalade.business.AppTest.txt" afterPath="$PROJECT_DIR$/projet3-business/target/surefire-reports/org.oc.escalade.business.AppTest.txt" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/pom.xml" afterPath="$PROJECT_DIR$/projet3-consumer/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/projet3-consumer.iml" afterPath="$PROJECT_DIR$/projet3-consumer/projet3-consumer.iml" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/projet3-consumer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/projet3-consumer-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/projet3-consumer/target/projet3-consumer-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/index.html" afterPath="$PROJECT_DIR$/projet3-consumer/target/site/index.html" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/plugins.html" afterPath="$PROJECT_DIR$/projet3-consumer/target/site/plugins.html" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/project-info.html" afterPath="$PROJECT_DIR$/projet3-consumer/target/site/project-info.html" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/project-summary.html" afterPath="$PROJECT_DIR$/projet3-consumer/target/site/project-summary.html" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/surefire-reports/TEST-org.oc.escalade.consumer.AppTest.xml" afterPath="$PROJECT_DIR$/projet3-consumer/target/surefire-reports/TEST-org.oc.escalade.consumer.AppTest.xml" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/surefire-reports/org.oc.escalade.consumer.AppTest.txt" afterPath="$PROJECT_DIR$/projet3-consumer/target/surefire-reports/org.oc.escalade.consumer.AppTest.txt" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/projet3-model-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/projet3-model/target/projet3-model-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/index.html" afterPath="$PROJECT_DIR$/projet3-model/target/site/index.html" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/plugins.html" afterPath="$PROJECT_DIR$/projet3-model/target/site/plugins.html" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/project-info.html" afterPath="$PROJECT_DIR$/projet3-model/target/site/project-info.html" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/project-summary.html" afterPath="$PROJECT_DIR$/projet3-model/target/site/project-summary.html" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/surefire-reports/TEST-org.oc.escalade.model.AppTest.xml" afterPath="$PROJECT_DIR$/projet3-model/target/surefire-reports/TEST-org.oc.escalade.model.AppTest.xml" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/surefire-reports/org.oc.escalade.model.AppTest.txt" afterPath="$PROJECT_DIR$/projet3-model/target/surefire-reports/org.oc.escalade.model.AppTest.txt" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/pom.xml" afterPath="$PROJECT_DIR$/projet3-webapp/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/projet3-webapp.iml" afterPath="$PROJECT_DIR$/projet3-webapp/projet3-webapp.iml" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/resources/org.oc.escalade.projet3.webapp/test.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/escalade/webapp/test.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/escalade/webapp/test.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/projet3-webapp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/projet3-webapp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp.war" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp.war" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/escalade/webapp/test.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/escalade/webapp/test.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/lib/projet3-business-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/lib/projet3-business-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/lib/projet3-consumer-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/lib/projet3-consumer-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/lib/projet3-model-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/lib/projet3-model-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/web.xml" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/jsp/about.jsp" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/jsp/about.jsp" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/index.html" afterPath="$PROJECT_DIR$/projet3-webapp/target/site/index.html" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/plugins.html" afterPath="$PROJECT_DIR$/projet3-webapp/target/site/plugins.html" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/project-info.html" afterPath="$PROJECT_DIR$/projet3-webapp/target/site/project-info.html" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/project-summary.html" afterPath="$PROJECT_DIR$/projet3-webapp/target/site/project-summary.html" />
-      <change beforePath="$PROJECT_DIR$/target/site/index.html" afterPath="$PROJECT_DIR$/target/site/index.html" />
-      <change beforePath="$PROJECT_DIR$/target/site/plugins.html" afterPath="$PROJECT_DIR$/target/site/plugins.html" />
-      <change beforePath="$PROJECT_DIR$/target/site/project-info.html" afterPath="$PROJECT_DIR$/target/site/project-info.html" />
-      <change beforePath="$PROJECT_DIR$/target/site/project-summary.html" afterPath="$PROJECT_DIR$/target/site/project-summary.html" />
-      <change beforePath="$PROJECT_DIR$/target/staging/index.html" afterPath="$PROJECT_DIR$/target/staging/index.html" />
-      <change beforePath="$PROJECT_DIR$/target/staging/plugins.html" afterPath="$PROJECT_DIR$/target/staging/plugins.html" />
-      <change beforePath="$PROJECT_DIR$/target/staging/project-info.html" afterPath="$PROJECT_DIR$/target/staging/project-info.html" />
-      <change beforePath="$PROJECT_DIR$/target/staging/project-summary.html" afterPath="$PROJECT_DIR$/target/staging/project-summary.html" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/index.html" afterPath="$PROJECT_DIR$/target/staging/projet3-batch/index.html" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/plugins.html" afterPath="$PROJECT_DIR$/target/staging/projet3-batch/plugins.html" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/project-info.html" afterPath="$PROJECT_DIR$/target/staging/projet3-batch/project-info.html" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/project-summary.html" afterPath="$PROJECT_DIR$/target/staging/projet3-batch/project-summary.html" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/index.html" afterPath="$PROJECT_DIR$/target/staging/projet3-business/index.html" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/plugins.html" afterPath="$PROJECT_DIR$/target/staging/projet3-business/plugins.html" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/project-info.html" afterPath="$PROJECT_DIR$/target/staging/projet3-business/project-info.html" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/project-summary.html" afterPath="$PROJECT_DIR$/target/staging/projet3-business/project-summary.html" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/index.html" afterPath="$PROJECT_DIR$/target/staging/projet3-consumer/index.html" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/plugins.html" afterPath="$PROJECT_DIR$/target/staging/projet3-consumer/plugins.html" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/project-info.html" afterPath="$PROJECT_DIR$/target/staging/projet3-consumer/project-info.html" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/project-summary.html" afterPath="$PROJECT_DIR$/target/staging/projet3-consumer/project-summary.html" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/index.html" afterPath="$PROJECT_DIR$/target/staging/projet3-model/index.html" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/plugins.html" afterPath="$PROJECT_DIR$/target/staging/projet3-model/plugins.html" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/project-info.html" afterPath="$PROJECT_DIR$/target/staging/projet3-model/project-info.html" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/project-summary.html" afterPath="$PROJECT_DIR$/target/staging/projet3-model/project-summary.html" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/index.html" afterPath="$PROJECT_DIR$/target/staging/projet3-webapp/index.html" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/plugins.html" afterPath="$PROJECT_DIR$/target/staging/projet3-webapp/plugins.html" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/project-info.html" afterPath="$PROJECT_DIR$/target/staging/projet3-webapp/project-info.html" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/project-summary.html" afterPath="$PROJECT_DIR$/target/staging/projet3-webapp/project-summary.html" />
-    </list>
+    <list default="true" id="dc21b869-51e4-416e-83d2-aea4bb2d049d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/projet3-consumer/target/" />
     <ignored path="$PROJECT_DIR$/projet3-batch/target/" />
@@ -161,7 +42,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
@@ -194,7 +75,7 @@
       <file leaf-file-name="accueil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/escalade/webapp/accueil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="187">
               <caret line="16" column="55" lean-forward="false" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -203,7 +84,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
@@ -228,9 +109,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
               <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -260,32 +139,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding>
-                <element signature="e#240#241#0" expanded="true" />
-                <element signature="e#267#268#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-                <element signature="e#339#340#0" expanded="true" />
-                <element signature="e#371#372#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#441#442#0" expanded="true" />
-                <element signature="e#475#476#0" expanded="true" />
-                <element signature="e#506#507#0" expanded="true" />
-                <element signature="e#536#537#0" expanded="true" />
-                <element signature="e#579#580#0" expanded="true" />
-                <element signature="e#617#618#0" expanded="true" />
-                <element signature="e#655#656#0" expanded="true" />
-                <element signature="e#689#690#0" expanded="true" />
-                <element signature="e#743#744#0" expanded="true" />
-                <element signature="e#789#790#0" expanded="true" />
-                <element signature="e#824#825#0" expanded="true" />
-                <element signature="e#855#856#0" expanded="true" />
-                <element signature="e#903#904#0" expanded="true" />
-                <element signature="e#943#944#0" expanded="true" />
-                <element signature="e#979#980#0" expanded="true" />
-                <element signature="e#1011#1012#0" expanded="true" />
-                <element signature="e#1061#1062#0" expanded="true" />
-                <element signature="e#1098#1099#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -610,10 +464,10 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -629,13 +483,13 @@
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="PostgreSQL" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\sgahama\eclipse-workspace\projet3\projet3-webapp\src\main\webapp\servlet" />
-      <recent name="C:\Users\sgahama\eclipse-workspace\projet3\projet3-webapp\src\main\webapp\WEB-INF" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.oc.escalade.consumer.impl.dao" />
       <recent name="org.oc.escalade.consumer.contract.dao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sgahama\eclipse-workspace\projet3\projet3-webapp\src\main\webapp\servlet" />
+      <recent name="C:\Users\sgahama\eclipse-workspace\projet3\projet3-webapp\src\main\webapp\WEB-INF" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -829,11 +683,12 @@
       <workItem from="1513847220337" duration="15593000" />
       <workItem from="1513977143727" duration="11691000" />
       <workItem from="1514314782456" duration="9449000" />
+      <workItem from="1514384911878" duration="41000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79469000" />
+    <option name="totallyTimeSpent" value="79510000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -849,36 +704,36 @@
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36008918" sideWeight="0.4824094" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19509476" sideWeight="0.51226693" order="0" side_tool="true" content_ui="tabs" x="747" y="308" width="426" height="424" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.078891255" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14925373" sideWeight="0.48166665" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39910814" sideWeight="0.4978678" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20624304" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21492206" sideWeight="0.4610874" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36008918" sideWeight="0.4824094" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19509476" sideWeight="0.51226693" order="0" side_tool="true" content_ui="tabs" x="747" y="308" width="426" height="424" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27171493" sideWeight="0.51759064" order="13" side_tool="true" content_ui="tabs" x="4" y="522" width="1870" height="317" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27171493" sideWeight="0.51759064" order="13" side_tool="true" content_ui="tabs" x="4" y="522" width="1870" height="317" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24860647" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16684435" sideWeight="0.7691131" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16684435" sideWeight="0.23088685" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24414715" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1684435" sideWeight="0.76254183" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1684435" sideWeight="0.2374582" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.078891255" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14925373" sideWeight="0.48166665" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16684435" sideWeight="0.2300885" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39910814" sideWeight="0.4978678" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21492206" sideWeight="0.4610874" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24414715" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -892,14 +747,94 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/escalade/webapp/topos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="69" lean-forward="false" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/topos.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/escalade/webapp/accueil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="55" lean-forward="false" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/sites.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/escalade/webapp/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/menu.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/resources/org.oc.escalade.projet3.webapp/webappContent.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/sites/Site.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/index.jsp" />
     <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/escalade/webapp/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="102" lean-forward="false" selection-start-line="16" selection-start-column="102" selection-end-line="16" selection-end-column="102" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -945,7 +880,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -974,7 +908,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="548">
           <caret line="45" column="46" lean-forward="false" selection-start-line="45" selection-start-column="46" selection-end-line="45" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -989,7 +922,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1099,14 +1031,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/escalade/webapp/Servlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/escalade/webapp/Servlet.java" />
     <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/menu.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -1127,32 +1052,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#617#618#0" expanded="true" />
-            <element signature="e#655#656#0" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
-            <element signature="e#743#744#0" expanded="true" />
-            <element signature="e#789#790#0" expanded="true" />
-            <element signature="e#824#825#0" expanded="true" />
-            <element signature="e#855#856#0" expanded="true" />
-            <element signature="e#903#904#0" expanded="true" />
-            <element signature="e#943#944#0" expanded="true" />
-            <element signature="e#979#980#0" expanded="true" />
-            <element signature="e#1011#1012#0" expanded="true" />
-            <element signature="e#1061#1062#0" expanded="true" />
-            <element signature="e#1098#1099#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1160,9 +1060,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1170,14 +1068,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1200,7 +1090,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/escalade/webapp/accueil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="187">
           <caret line="16" column="55" lean-forward="false" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1212,6 +1102,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
