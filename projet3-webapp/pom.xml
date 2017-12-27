@@ -60,6 +60,18 @@
           <version>2.5</version>
           <scope>provided</scope>
         </dependency>
+
+      <dependency>
+          <groupId>org.springframework</groupId>
+          <artifactId>spring-web</artifactId>
+      </dependency>
+
+      <!-- Driver JDBC SQL -->
+      <dependency>
+          <groupId>org.postgresql</groupId>
+          <artifactId>postgresql</artifactId>
+      </dependency>
+
   </dependencies>
   <build>
     <finalName>projet3-webapp</finalName>

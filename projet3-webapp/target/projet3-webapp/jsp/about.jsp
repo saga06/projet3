@@ -18,7 +18,7 @@
     <ul>
         <li>Application : Projet escalade</li>
         <li>Version : 1.0-SNAPSHOT</li>
-        <li>Date du build : 11/12/2017</li>
+        <li>Date du build : 27/12/2017</li>
     </ul>
 </div>
 
