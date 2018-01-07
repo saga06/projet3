@@ -4,45 +4,75 @@
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
          version="3.1">
 
-    <servlet>
-        <servlet-name>test</servlet-name>
-        <servlet-class>org.oc.escalade.webapp.test</servlet-class>
-    </servlet>
-
-
+    <!-- Login page
     <servlet>
         <servlet-name>accueil</servlet-name>
         <servlet-class>org.oc.escalade.webapp.accueil</servlet-class>
     </servlet>
 
-    <servlet>
-        <servlet-name>topos</servlet-name>
-        <servlet-class>org.oc.escalade.webapp.topos</servlet-class>
-    </servlet>
-    <servlet>
-        <servlet-name>Test</servlet-name>
-        <servlet-class>org.oc.servlets.Test</servlet-class>
-    </servlet>
-
-
     <servlet-mapping>
         <servlet-name>accueil</servlet-name>
         <url-pattern>/</url-pattern>
+    </servlet-mapping>-->
+
+    <!-- Login page -->
+    <servlet>
+        <servlet-name>Login</servlet-name>
+        <servlet-class>Login</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Login</servlet-name>
+        <url-pattern>/login</url-pattern>
     </servlet-mapping>
+
+    <!-- Register page (same jsp as login page but different servlet) -->
+
+    <servlet>
+        <servlet-name>register</servlet-name>
+        <servlet-class>Register</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>register</servlet-name>
+        <url-pattern>/register</url-pattern>
+    </servlet-mapping>
+
+    <!-- Welcome page -->
+
+    <servlet>
+        <servlet-name>Welcome</servlet-name>
+        <servlet-class>Welcome</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Welcome</servlet-name>
+        <url-pattern>/Welcome</url-pattern>
+    </servlet-mapping>
+
+
+    <!-- Spots description -->
+    <servlet>
+        <servlet-name>test</servlet-name>
+        <servlet-class>org.oc.escalade.webapp.Test</servlet-class>
+    </servlet>
 
     <servlet-mapping>
         <servlet-name>test</servlet-name>
         <url-pattern>/sites</url-pattern>
     </servlet-mapping>
 
+
+
+    <!-- Topos sharing page-->
+    <servlet>
+        <servlet-name>topos</servlet-name>
+        <servlet-class>org.oc.escalade.webapp.topos</servlet-class>
+    </servlet>
+
+
     <servlet-mapping>
         <servlet-name>topos</servlet-name>
         <url-pattern>/topos</url-pattern>
-    </servlet-mapping>
-
-    <servlet-mapping>
-        <servlet-name>Test</servlet-name>
-        <url-pattern>/bonjour</url-pattern>
     </servlet-mapping>
 
 

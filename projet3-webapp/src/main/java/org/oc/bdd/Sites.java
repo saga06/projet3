@@ -10,8 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.oc.beans.InfoSite;
-import org.oc.escalade.webapp.test;
-//public class Noms {
+import org.oc.escalade.webapp.Test;
 public class Sites {
     private Connection connexion;
 
@@ -26,23 +25,36 @@ public class Sites {
             statement = connexion.createStatement();
 
             // Exécution de la requête
-            resultat = statement.executeQuery("SELECT name, location FROM site;");
+            resultat = statement.executeQuery("SELECT name, location, zipcode, description, site_id, latitude, longitude FROM site;");
 
             // Récupération des données
             while (resultat.next()) {
                 String name = resultat.getString("name");
                 String location = resultat.getString("location");
+                int zipcode = resultat.getInt("zipcode");
+                String description = resultat.getString("description");
+                int site_id = resultat.getInt("site_id");
+                String latitude = resultat.getString("latitude");
+                String longitude = resultat.getString("longitude");
 
-                //Utilisateur utilisateur = new Utilisateur();
+
+
                 InfoSite infoSite = new InfoSite();
 
-                //utilisateur.setNom(nom);
                 infoSite.setName(name);
 
-                //utilisateur.setPrenom(prenom);
                 infoSite.setLocation(location);
 
-                //utilisateurs.add(utilisateur);
+                infoSite.setZipcode(zipcode);
+
+                infoSite.setDescription(description);
+
+                infoSite.setSite_id(site_id);
+
+                infoSite.setLatitude(latitude);
+
+                infoSite.setLongitude(longitude);
+
                 infoSites.add(infoSite);
             }
         } catch (SQLException e) {
@@ -65,27 +77,29 @@ public class Sites {
     private void loadDatabase() {
         // Chargement du driver
         try {
-            //Class.forName("com.mysql.jdbc.Driver");
             Class.forName("org.postgresql.Driver");
         } catch (ClassNotFoundException e) {
         }
 
         try {
-            //connexion = DriverManager.getConnection("jdbc:mysql://localhost:3306/javaee", "root", "root");
-            connexion = DriverManager.getConnection("jdbc:postgresql://localhost:3306/projet3","root", "root");
+            connexion = DriverManager.getConnection("jdbc:postgresql://localhost:5432/projet3","postgres", "root");
         } catch (SQLException e) {
             e.printStackTrace();
         }
     }
 
-    //public void ajouterUtilisateur(Utilisateur utilisateur) {
     public void addInfoSite(InfoSite infoSite) {
         loadDatabase();
 
         try {
-            PreparedStatement preparedStatement = connexion.prepareStatement("INSERT INTO site(name, location) VALUES(?, ?);");
+            PreparedStatement preparedStatement = connexion.prepareStatement("INSERT INTO site( name, location, zipcode, description, latitude, longitude) VALUES(?, ?, ?, ?, ?, ?);");
             preparedStatement.setString(1, infoSite.getName());
             preparedStatement.setString(2, infoSite.getLocation());
+            preparedStatement.setInt(3,infoSite.getZipcode());
+            preparedStatement.setString(4,infoSite.getDescription());
+            preparedStatement.setString(5,infoSite.getLatitude());
+            preparedStatement.setString(6,infoSite.getLongitude());
+
 
             preparedStatement.executeUpdate();
         } catch (SQLException e) {

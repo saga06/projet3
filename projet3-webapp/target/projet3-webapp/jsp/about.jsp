@@ -5,7 +5,7 @@
   Time: 15:05
   To change this template use File | Settings | File Templates.
 --%>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ page contentType="text/html;charset=UTF-8" %>
 <html>
 <head>
     <title>Projet escalade - A propos</title>
@@ -18,7 +18,7 @@
     <ul>
         <li>Application : Projet escalade</li>
         <li>Version : 1.0-SNAPSHOT</li>
-        <li>Date du build : 28/12/2017</li>
+        <li>Date du build : 06/01/2018</li>
     </ul>
 </div>
 

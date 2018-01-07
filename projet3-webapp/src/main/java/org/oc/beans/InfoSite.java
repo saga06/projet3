@@ -5,6 +5,7 @@ public class InfoSite {
     private String location;
     private int zipcode;
     private String description;
+    private int site_id;
     private String latitude;
     private String longitude;
 
@@ -39,6 +40,10 @@ public class InfoSite {
     public void setDescription(String description) {
         this.description = description;
     }
+
+    public int getSite_id() { return site_id; }
+
+    public void setSite_id(int site_id) { this.site_id = site_id; }
 
     public String getLatitude() {
         return latitude;

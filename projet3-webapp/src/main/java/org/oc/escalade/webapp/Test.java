@@ -19,15 +19,13 @@ import java.util.List;
 
 
 
-public class test extends HttpServlet {
+public class Test extends HttpServlet {
 
 
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        //Noms tableNoms = new Noms();
         Sites tableSites = new Sites();
 
-        //request.setAttribute("utilisateurs", tableNoms.recupererUtilisateurs());
         request.setAttribute("infoSites", tableSites.recupererInfoSites());
 
 
@@ -36,23 +34,26 @@ public class test extends HttpServlet {
 
 
     public void doPost( HttpServletRequest request, HttpServletResponse response ) throws ServletException, IOException {
-        //Utilisateur utilisateur = new Utilisateur();
         InfoSite infoSite = new InfoSite();
 
-        //utilisateur.setNom(request.getParameter("nom"));
         infoSite.setName(request.getParameter("name"));
 
-        //utilisateur.setPrenom(request.getParameter("prenom"));
         infoSite.setLocation(request.getParameter("location"));
 
-        //Noms tableNoms = new Noms();
+        infoSite.setZipcode(Integer.parseInt(request.getParameter("zipcode")));
+
+        infoSite.setDescription(request.getParameter("description"));
+
+        infoSite.setLatitude(request.getParameter("latitude"));
+
+        infoSite.setLongitude(request.getParameter("longitude"));
+
+
         Sites tableSites = new Sites();
 
 
-        //tableNoms.ajouterUtilisateur(utilisateur);
         tableSites.addInfoSite(infoSite);
 
-        //request.setAttribute("utilisateurs", tableNoms.recupererUtilisateurs());
         request.setAttribute("infoSites", tableSites.recupererInfoSites());
 
         this.getServletContext().getRequestDispatcher("/WEB-INF/sites.jsp").forward(request,response);

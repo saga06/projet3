@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 
-public class accueil extends HttpServlet {
+public class Accueil extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
     }

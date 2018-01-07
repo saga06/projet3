@@ -8,7 +8,11 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>Sites</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
 <%@include file="menu.jsp"%>
@@ -16,28 +20,75 @@
 <c:if test="${ !empty pseudo}">
     <p><c:out value="Merci ${pseudo}, votre commentaire a été posté !"/></p>
 </c:if>
+
+<c:if test="${ !empty name}">
 <p>Bonjour ${ empty name ? '' : name }</p>
-<p>ici vous trouverez la liste des sites</p>
-<p> Information sur le site ${ infoSite.name } </p>
-<p>sa latitude est de ${ infoSite.latitude}</p>
+</c:if>
 
-<form method="post" action="sites">
-    <p>
-        <label for="name">Nom : </label>
-        <input type="text" name="name" id="name" />
-    </p>
-    <p>
-        <label for="location">Lieu: : </label>
-        <input type="text" name="location" id="location" />
-    </p>
+<div class="container">
+    <h2>Ici vous trouverez la liste des sites</h2>
+    <table class="table table-bordered">
+        <thead>
+        <tr>
+            <th>Nom du site</th>
+            <th>Localisation</th>
+            <th>Code postal</th>
+            <th>Description</th>
+            <th>ID du site</th>
+            <th>Latitude</th>
+            <th>Longitude</th>
+        </tr>
+        </thead>
+        <tbody>
 
-    <input type="submit" />
-</form>
-<ul>
-    <c:forEach var="infoSite" items="${ infoSites }">
-        <li><c:out value="${ infoSite.name }" /> <c:out value="${ infoSite.location }" /></li>
-    </c:forEach>
-</ul>
+        <c:forEach var="infoSite" items="${ infoSites }">
+        <tr>
+            <td><c:out value="${ infoSite.name }" /></td>
+            <td><c:out value="${ infoSite.location }" /></td>
+            <td><c:out value="${ infoSite.zipcode }" /></td>
+            <td><c:out value="${ infoSite.description }" /></td>
+            <td><a href="sites?ID=<c:out value="${ infoSite.site_id }"/>">${ infoSite.site_id }</a></td>
+            <td><c:out value="${ infoSite.latitude }" /></td>
+            <td><c:out value="${ infoSite.longitude }" /></td>
+        </tr>
+        </c:forEach>
+
+        </tbody>
+    </table>
+</div>
+
+
+<div class="container">
+    <h3>Vous souhaitez ajouter un nouveau site ? Merci de compléter ces champs :</h3>
+    <table class="table table-bordered">
+        <form method="post" action="sites">
+        <thead>
+        <tr>
+            <th><label for="name">Nom : </label></th>
+            <th><label for="location">Localisation: </label></th>
+            <th><label for="zipcode">Code postal: </label></th>
+            <th><label for="description">Description: </label></th>
+            <th><label for="latitude">Latitude: </label></th>
+            <th><label for="longitude">Longitude: </label></th>
+
+            <th>test</th>
+        </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><input type="text" name="name" id="name" /></td>
+                <td><input type="text" name="location" id="location" /></td>
+                <td><input type="text" name="zipcode" id="zipcode" /></td>
+                <td><input type="text" name="description" id="description" /></td>
+                <td><input type="text" name="latitude" id="latitude" /></td>
+                <td><input type="text" name="longitude" id="longitude" /></td>
+                <td><input type="submit" value="Ajouter" /></td>
+            </tr>
+        </tbody>
+        </form>
+    </table>
+</div>
+
 
 </body>
 </html>
