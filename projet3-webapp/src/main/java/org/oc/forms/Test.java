@@ -1,4 +1,4 @@
-package org.oc.servlets;
+package org.oc.forms;
 
 import org.oc.bdd.Sites;
 import org.oc.beans.InfoSite;

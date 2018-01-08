@@ -1,4 +1,4 @@
-package org.oc.servlets;
+package org.oc.forms;
 
 import org.oc.bdd.Validate;
 
@@ -19,7 +19,7 @@ public class Login extends HttpServlet {
 
         if(Validate.checkUser(email, pass))
         {
-            RequestDispatcher rs = request.getRequestDispatcher("/welcome");
+            RequestDispatcher rs = request.getRequestDispatcher("/accueil");
             rs.forward(request, response);
 
         }

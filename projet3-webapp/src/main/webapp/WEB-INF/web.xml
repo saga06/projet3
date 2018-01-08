@@ -6,21 +6,11 @@
         version="3.0">
 
 
-    <!--Accueil -->
-    <servlet>
-        <servlet-name>Accueil</servlet-name>
-        <servlet-class>org.oc.servlets.Accueil</servlet-class>
-    </servlet>
-
-    <servlet-mapping>
-        <servlet-name>Accueil</servlet-name>
-        <url-pattern>/accueil</url-pattern>
-    </servlet-mapping>
 
     <!--Login -->
     <servlet>
         <servlet-name>Login</servlet-name>
-        <servlet-class>org.oc.servlets.Login</servlet-class>
+        <servlet-class>org.oc.forms.Login</servlet-class>
     </servlet>
 
     <servlet-mapping>
@@ -32,7 +22,7 @@
 
     <servlet>
         <servlet-name>Register</servlet-name>
-        <servlet-class>org.oc.servlets.Register</servlet-class>
+        <servlet-class>org.oc.forms.Register</servlet-class>
     </servlet>
 
     <servlet-mapping>
@@ -40,8 +30,7 @@
         <url-pattern>/register</url-pattern>
     </servlet-mapping>
 
-     <!--Welcome page -->
-
+    <!-- Welcome -->
     <servlet>
         <servlet-name>Welcome</servlet-name>
         <servlet-class>org.oc.servlets.Welcome</servlet-class>
@@ -53,10 +42,23 @@
     </servlet-mapping>
 
 
+
+    <!--Accueil -->
+    <servlet>
+        <servlet-name>Accueil</servlet-name>
+        <servlet-class>org.oc.servlets.Accueil</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Accueil</servlet-name>
+        <url-pattern>/accueil</url-pattern>
+    </servlet-mapping>
+
+
     <!-- Sites d'escalade description -->
     <servlet>
         <servlet-name>Test</servlet-name>
-        <servlet-class>org.oc.servlets.Test</servlet-class>
+        <servlet-class>org.oc.forms.Test</servlet-class>
     </servlet>
 
     <servlet-mapping>

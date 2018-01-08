@@ -7,729 +7,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc21b869-51e4-416e-83d2-aea4bb2d049d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/sgahama.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/accueil.jsp" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/projet3-batch/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/projet3-batch/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/projet3-batch/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/projet3-batch-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/projet3-batch/target/projet3-batch-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/css/apache-maven-fluido-1.6.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/css/print.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/css/site.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/dependencies.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/dependency-info.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/dependency-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/distribution-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/accessories-text-editor.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/add.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/apache-maven-project-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/application-certificate.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/close.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/contact-new.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/document-properties.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/drive-harddisk.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/fix.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/icon_error_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/icon_help_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/icon_info_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/icon_success_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/icon_warning_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/image-x-generic.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/internet-web-browser.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/logos/build-by-maven-black.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/logos/build-by-maven-white.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/logos/maven-feather.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/network-server.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/package-x-generic.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/profiles/pre-release.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/profiles/retired.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/profiles/sandbox.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/remove.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/rss.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/update.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/images/window-new.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/img/glyphicons-halflings-white.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/img/glyphicons-halflings.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/integration.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/issue-tracking.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/js/apache-maven-fluido-1.6.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/license.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/mail-lists.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/plugin-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/plugins.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/project-info.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/project-summary.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/source-repository.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/site/team-list.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/surefire-reports/TEST-org.oc.escalade.batch.AppTest.xml" afterPath="$PROJECT_DIR$/projet3-batch/target/surefire-reports/TEST-org.oc.escalade.batch.AppTest.xml" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/target/surefire-reports/org.oc.escalade.batch.AppTest.txt" afterPath="$PROJECT_DIR$/projet3-batch/target/surefire-reports/org.oc.escalade.batch.AppTest.txt" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/projet3-business/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/projet3-business/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/projet3-business/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/projet3-business-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/projet3-business/target/projet3-business-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/css/apache-maven-fluido-1.6.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/css/print.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/css/site.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/dependencies.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/dependency-info.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/dependency-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/distribution-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/accessories-text-editor.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/add.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/apache-maven-project-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/application-certificate.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/close.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/contact-new.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/document-properties.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/drive-harddisk.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/fix.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/icon_error_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/icon_help_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/icon_info_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/icon_success_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/icon_warning_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/image-x-generic.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/internet-web-browser.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/logos/build-by-maven-black.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/logos/build-by-maven-white.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/logos/maven-feather.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/network-server.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/package-x-generic.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/profiles/pre-release.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/profiles/retired.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/profiles/sandbox.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/remove.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/rss.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/update.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/images/window-new.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/img/glyphicons-halflings-white.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/img/glyphicons-halflings.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/integration.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/issue-tracking.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/js/apache-maven-fluido-1.6.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/license.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/mail-lists.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/plugin-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/plugins.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/project-info.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/project-summary.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/source-repository.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/site/team-list.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/target/surefire-reports/org.oc.escalade.business.AppTest.txt" afterPath="$PROJECT_DIR$/projet3-business/target/surefire-reports/org.oc.escalade.business.AppTest.txt" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/projet3-consumer/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/projet3-consumer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/projet3-consumer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/projet3-consumer-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/projet3-consumer/target/projet3-consumer-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/css/apache-maven-fluido-1.6.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/css/print.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/css/site.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/dependencies.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/dependency-info.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/dependency-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/distribution-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/accessories-text-editor.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/add.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/apache-maven-project-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/application-certificate.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/close.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/contact-new.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/document-properties.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/drive-harddisk.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/fix.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/icon_error_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/icon_help_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/icon_info_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/icon_success_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/icon_warning_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/image-x-generic.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/internet-web-browser.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/logos/build-by-maven-black.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/logos/build-by-maven-white.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/logos/maven-feather.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/network-server.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/package-x-generic.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/profiles/pre-release.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/profiles/retired.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/profiles/sandbox.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/remove.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/rss.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/update.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/images/window-new.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/img/glyphicons-halflings-white.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/img/glyphicons-halflings.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/integration.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/issue-tracking.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/js/apache-maven-fluido-1.6.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/license.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/mail-lists.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/plugin-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/plugins.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/project-info.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/project-summary.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/source-repository.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/site/team-list.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/surefire-reports/TEST-org.oc.escalade.consumer.AppTest.xml" afterPath="$PROJECT_DIR$/projet3-consumer/target/surefire-reports/TEST-org.oc.escalade.consumer.AppTest.xml" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/surefire-reports/org.oc.escalade.consumer.AppTest.txt" afterPath="$PROJECT_DIR$/projet3-consumer/target/surefire-reports/org.oc.escalade.consumer.AppTest.txt" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/projet3-model/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/projet3-model/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/projet3-model/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/projet3-model-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/projet3-model/target/projet3-model-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/css/apache-maven-fluido-1.6.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/css/print.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/css/site.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/dependencies.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/dependency-info.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/dependency-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/distribution-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/accessories-text-editor.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/add.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/apache-maven-project-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/application-certificate.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/close.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/contact-new.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/document-properties.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/drive-harddisk.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/fix.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/icon_error_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/icon_help_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/icon_info_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/icon_success_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/icon_warning_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/image-x-generic.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/internet-web-browser.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/logos/build-by-maven-black.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/logos/build-by-maven-white.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/logos/maven-feather.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/network-server.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/package-x-generic.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/profiles/pre-release.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/profiles/retired.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/profiles/sandbox.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/remove.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/rss.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/update.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/images/window-new.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/img/glyphicons-halflings-white.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/img/glyphicons-halflings.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/integration.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/issue-tracking.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/js/apache-maven-fluido-1.6.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/license.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/mail-lists.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/plugin-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/plugins.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/project-info.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/project-summary.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/source-repository.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/site/team-list.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/surefire-reports/TEST-org.oc.escalade.model.AppTest.xml" afterPath="$PROJECT_DIR$/projet3-model/target/surefire-reports/TEST-org.oc.escalade.model.AppTest.xml" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/target/surefire-reports/org.oc.escalade.model.AppTest.txt" afterPath="$PROJECT_DIR$/projet3-model/target/surefire-reports/org.oc.escalade.model.AppTest.txt" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/pom.xml" afterPath="$PROJECT_DIR$/projet3-webapp/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/WebContent/WEB-INF/contact.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/WebContent/WEB-INF/menu.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/WebContent/WEB-INF/sites.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/WebContent/WEB-INF/taglibs.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/WebContent/WEB-INF/topos.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/WebContent/WEB-INF/welcome.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/WebContent/jsp/about.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/java/Login.java" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Login.java" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/java/Register.java" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Register.java" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/java/Validate.java" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/bdd/Validate.java" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/java/Welcome.java" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Welcome.java" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/bdd/Sites.java" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/bdd/Sites.java" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/escalade/webapp/Accueil.java" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Accueil.java" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/escalade/webapp/Contact.java" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Contact.java" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/escalade/webapp/Test.java" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Test.java" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/escalade/webapp/Topos.java" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Topos.java" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Accueil.java" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Accueil.java" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Login.java" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Login.java" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Register.java" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Register.java" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Test.java" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Test.java" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Welcome.java" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Welcome.java" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/welcome.jsp" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/welcome.jsp" />
       <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/index.html" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/Login.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/Register.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/Validate.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/Welcome.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/escalade/webapp/Contact.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/escalade/webapp/accueil.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/escalade/webapp/test.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/escalade/webapp/topos.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/projet3-webapp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/projet3-webapp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp.war" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp.war" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/Login.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/Register.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/Validate.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/Welcome.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/escalade/webapp/Contact.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/escalade/webapp/accueil.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/escalade/webapp/test.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/escalade/webapp/topos.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/contact.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/index.html" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/index.html" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/servlets/Accueil.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/servlets/Accueil.class" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/servlets/Login.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/servlets/Register.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/servlets/Test.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/servlets/Welcome.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/servlets/Welcome.class" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/servlets/Accueil.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/servlets/Accueil.class" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/servlets/Login.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/servlets/Register.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/servlets/Test.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/servlets/Welcome.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/servlets/Welcome.class" />
       <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/lib/projet3-business-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/lib/projet3-business-1.0-SNAPSHOT.jar" />
       <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/lib/projet3-consumer-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/lib/projet3-consumer-1.0-SNAPSHOT.jar" />
       <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/lib/projet3-model-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/lib/projet3-model-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/menu.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/sites.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/taglibs.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/topos.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/views/welcome.jsp" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/views/welcome.jsp" />
       <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/web.xml" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/welcome.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/index.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/jsp/about.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/css/apache-maven-fluido-1.6.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/css/print.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/css/site.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/dependencies.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/dependency-info.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/dependency-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/distribution-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/accessories-text-editor.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/add.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/apache-maven-project-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/application-certificate.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/close.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/contact-new.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/document-properties.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/drive-harddisk.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/fix.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/icon_error_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/icon_help_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/icon_info_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/icon_success_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/icon_warning_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/image-x-generic.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/internet-web-browser.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/logos/build-by-maven-black.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/logos/build-by-maven-white.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/logos/maven-feather.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/network-server.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/package-x-generic.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/profiles/pre-release.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/profiles/retired.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/profiles/sandbox.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/remove.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/rss.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/update.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/images/window-new.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/img/glyphicons-halflings-white.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/img/glyphicons-halflings.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/integration.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/issue-tracking.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/js/apache-maven-fluido-1.6.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/license.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/mail-lists.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/plugin-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/plugins.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/project-info.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/project-summary.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/source-repository.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/site/team-list.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/oc/escalade/App.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/architecture.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/css/apache-maven-fluido-1.6.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/css/print.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/css/site.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/dependencies.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/dependency-convergence.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/dependency-info.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/dependency-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/distribution-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/faq.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/accessories-text-editor.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/add.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/apache-maven-project-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/application-certificate.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/close.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/contact-new.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/document-properties.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/drive-harddisk.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/fix.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/icon_error_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/icon_help_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/icon_info_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/icon_success_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/icon_warning_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/image-x-generic.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/internet-web-browser.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-black.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-white.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/logos/maven-feather.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/network-server.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/package-x-generic.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/profiles/pre-release.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/profiles/retired.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/profiles/sandbox.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/remove.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/rss.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/update.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/window-new.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/img/dependances_modules.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/img/glyphicons-halflings-white.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/img/glyphicons-halflings.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/integration.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/issue-tracking.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/js/apache-maven-fluido-1.6.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/license.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/mail-lists.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/modules.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/plugin-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/plugins.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/project-info.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/project-summary.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/source-repository.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/site/team-list.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/architecture.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/css/apache-maven-fluido-1.6.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/css/print.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/css/site.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/dependencies.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/dependency-convergence.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/dependency-info.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/dependency-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/distribution-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/faq.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/accessories-text-editor.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/add.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/apache-maven-project-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/application-certificate.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/close.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/contact-new.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/document-properties.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/drive-harddisk.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/fix.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/icon_error_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/icon_help_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/icon_info_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/icon_success_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/icon_warning_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/image-x-generic.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/internet-web-browser.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/logos/build-by-maven-black.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/logos/build-by-maven-white.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/logos/maven-feather.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/network-server.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/package-x-generic.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/profiles/pre-release.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/profiles/retired.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/profiles/sandbox.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/remove.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/rss.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/update.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/images/window-new.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/img/dependances_modules.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/img/glyphicons-halflings-white.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/img/glyphicons-halflings.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/integration.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/issue-tracking.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/js/apache-maven-fluido-1.6.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/license.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/mail-lists.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/modules.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/plugin-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/plugins.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/project-info.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/project-summary.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/css/apache-maven-fluido-1.6.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/css/print.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/css/site.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/dependencies.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/dependency-info.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/dependency-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/distribution-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/accessories-text-editor.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/add.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/apache-maven-project-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/application-certificate.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/close.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/contact-new.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/document-properties.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/drive-harddisk.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/fix.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/icon_error_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/icon_help_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/icon_info_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/icon_success_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/icon_warning_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/image-x-generic.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/internet-web-browser.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/logos/build-by-maven-black.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/logos/build-by-maven-white.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/logos/maven-feather.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/network-server.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/package-x-generic.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/profiles/pre-release.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/profiles/retired.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/profiles/sandbox.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/remove.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/rss.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/update.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/images/window-new.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/img/glyphicons-halflings-white.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/img/glyphicons-halflings.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/integration.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/issue-tracking.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/js/apache-maven-fluido-1.6.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/license.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/mail-lists.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/plugin-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/plugins.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/project-info.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/project-summary.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/source-repository.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-batch/team-list.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/css/apache-maven-fluido-1.6.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/css/print.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/css/site.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/dependencies.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/dependency-info.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/dependency-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/distribution-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/accessories-text-editor.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/add.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/apache-maven-project-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/application-certificate.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/close.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/contact-new.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/document-properties.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/drive-harddisk.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/fix.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/icon_error_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/icon_help_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/icon_info_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/icon_success_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/icon_warning_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/image-x-generic.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/internet-web-browser.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/logos/build-by-maven-black.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/logos/build-by-maven-white.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/logos/maven-feather.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/network-server.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/package-x-generic.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/profiles/pre-release.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/profiles/retired.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/profiles/sandbox.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/remove.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/rss.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/update.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/images/window-new.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/img/glyphicons-halflings-white.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/img/glyphicons-halflings.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/integration.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/issue-tracking.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/js/apache-maven-fluido-1.6.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/license.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/mail-lists.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/plugin-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/plugins.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/project-info.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/project-summary.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/source-repository.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-business/team-list.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/css/apache-maven-fluido-1.6.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/css/print.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/css/site.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/dependencies.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/dependency-info.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/dependency-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/distribution-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/accessories-text-editor.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/add.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/apache-maven-project-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/application-certificate.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/close.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/contact-new.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/document-properties.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/drive-harddisk.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/fix.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/icon_error_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/icon_help_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/icon_info_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/icon_success_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/icon_warning_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/image-x-generic.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/internet-web-browser.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/logos/build-by-maven-black.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/logos/build-by-maven-white.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/logos/maven-feather.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/network-server.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/package-x-generic.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/profiles/pre-release.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/profiles/retired.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/profiles/sandbox.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/remove.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/rss.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/update.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/images/window-new.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/img/glyphicons-halflings-white.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/img/glyphicons-halflings.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/integration.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/issue-tracking.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/js/apache-maven-fluido-1.6.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/license.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/mail-lists.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/plugin-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/plugins.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/project-info.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/project-summary.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/source-repository.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-consumer/team-list.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/css/apache-maven-fluido-1.6.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/css/print.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/css/site.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/dependencies.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/dependency-info.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/dependency-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/distribution-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/accessories-text-editor.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/add.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/apache-maven-project-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/application-certificate.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/close.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/contact-new.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/document-properties.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/drive-harddisk.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/fix.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/icon_error_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/icon_help_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/icon_info_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/icon_success_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/icon_warning_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/image-x-generic.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/internet-web-browser.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/logos/build-by-maven-black.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/logos/build-by-maven-white.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/logos/maven-feather.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/network-server.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/package-x-generic.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/profiles/pre-release.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/profiles/retired.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/profiles/sandbox.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/remove.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/rss.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/update.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/images/window-new.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/img/glyphicons-halflings-white.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/img/glyphicons-halflings.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/integration.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/issue-tracking.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/js/apache-maven-fluido-1.6.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/license.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/mail-lists.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/plugin-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/plugins.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/project-info.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/project-summary.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/source-repository.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-model/team-list.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/css/apache-maven-fluido-1.6.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/css/print.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/css/site.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/dependencies.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/dependency-info.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/dependency-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/distribution-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/accessories-text-editor.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/add.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/apache-maven-project-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/application-certificate.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/close.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/contact-new.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/document-properties.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/drive-harddisk.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/fix.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/icon_error_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/icon_help_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/icon_info_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/icon_success_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/icon_warning_sml.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/image-x-generic.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/internet-web-browser.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/logos/build-by-maven-black.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/logos/build-by-maven-white.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/logos/maven-feather.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/network-server.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/package-x-generic.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/profiles/pre-release.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/profiles/retired.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/profiles/sandbox.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/remove.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/rss.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/update.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/images/window-new.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/img/glyphicons-halflings-white.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/img/glyphicons-halflings.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/integration.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/issue-tracking.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/js/apache-maven-fluido-1.6.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/license.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/mail-lists.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/plugin-management.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/plugins.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/project-info.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/project-summary.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/source-repository.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/projet3-webapp/team-list.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/source-repository.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/staging/team-list.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/index.html" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/projet3-consumer/target/" />
@@ -766,11 +69,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+            <state relative-caret-position="153">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Login.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="21" column="73" lean-forward="false" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
               <folding />
             </state>
           </provider>
@@ -782,18 +95,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Class" />
         <option value="HTML File" />
         <option value="Jsp File" />
-        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>place</find>
       <find>site</find>
       <find>ajout</find>
-      <find>/login</find>
       <find>login</find>
       <find>test</find>
       <find>juni</find>
@@ -819,6 +130,9 @@
       <find>javax</find>
       <find>webcon</find>
       <find>index.</find>
+      <find>/login</find>
+      <find>welcome</find>
+      <find>welcom</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\sgahama\eclipse-workspace\projet3\projet3-webapp\src\main</dir>
@@ -836,13 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/sites/Sector.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/sites/Way.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/sites/Length.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/sites/Point.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/topos.jsp" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/sites/Site.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/Length.java" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/Point.java" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/Way.java" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/Site.java" />
@@ -875,18 +182,25 @@
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/WebContent/index.jsp" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/WebContent/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/projet3-webapp/pom.xml" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Accueil.java" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/include/menu.jsp" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Welcome.java" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Login.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Register.java" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Test.java" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/sites.jsp" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/index.html" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/taglibs.jsp" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Contact.java" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Topos.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/tt.html" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/OLogin.jsp" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/onlyLogin.jsp" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Register.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Test.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Accueil.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Login.java" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Welcome.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/welcome.jsp" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Register.java" />
       </list>
     </option>
   </component>
@@ -926,8 +240,8 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -939,46 +253,7 @@
             <id />
           </State>
           <State>
-            <id>Android &gt; Lint &gt; Correctness</id>
-          </State>
-          <State>
             <id>Android &gt; Lint &gt; Internationalization</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Performance</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Security</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
-          </State>
-          <State>
-            <id>Android Lint for Kotlin</id>
-          </State>
-          <State>
-            <id>Application Server Specific Inspections</id>
-          </State>
-          <State>
-            <id>CDI(Contexts and Dependency Injection) issues</id>
-          </State>
-          <State>
-            <id>CodeSpring CoreSpring</id>
-          </State>
-          <State>
-            <id>Faces Model</id>
-          </State>
-          <State>
-            <id>General</id>
-          </State>
-          <State>
-            <id>Google Web Toolkit issues</id>
-          </State>
-          <State>
-            <id>Groovy</id>
-          </State>
-          <State>
-            <id>Guice Inspections</id>
           </State>
           <State>
             <id>Internationalization issues</id>
@@ -987,69 +262,12 @@
             <id>Internationalization issuesJava</id>
           </State>
           <State>
-            <id>JSP Inspections</id>
-          </State>
-          <State>
             <id>Java</id>
-          </State>
-          <State>
-            <id>Java EE issues</id>
-          </State>
-          <State>
-            <id>JavaScript</id>
-          </State>
-          <State>
-            <id>JavaScript validity issuesJavaScript</id>
-          </State>
-          <State>
-            <id>Performance issuesJava</id>
-          </State>
-          <State>
-            <id>Portability issuesJava</id>
-          </State>
-          <State>
-            <id>RESTful Web Service</id>
-          </State>
-          <State>
-            <id>Resource management issuesJava</id>
-          </State>
-          <State>
-            <id>SQL</id>
-          </State>
-          <State>
-            <id>Serialization issuesJava</id>
-          </State>
-          <State>
-            <id>Spring</id>
-          </State>
-          <State>
-            <id>Spring CoreSpring</id>
-          </State>
-          <State>
-            <id>Spring IntegrationSpring</id>
-          </State>
-          <State>
-            <id>Spring OSGiSpring</id>
-          </State>
-          <State>
-            <id>Spring Web ServicesSpring</id>
-          </State>
-          <State>
-            <id>Threading issuesGroovy</id>
-          </State>
-          <State>
-            <id>Web Services</id>
-          </State>
-          <State>
-            <id>WebSocket issues</id>
-          </State>
-          <State>
-            <id>XPath</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>WebProperties</id>
+            <id>AndroidLintEnforceUTF8</id>
           </State>
         </selected-state>
       </profile-state>
@@ -1073,7 +291,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1134,6 +351,26 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="oc" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projet3" type="462c0819:PsiDirectoryNode" />
+              <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oc" type="462c0819:PsiDirectoryNode" />
+              <item name="forms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projet3" type="462c0819:PsiDirectoryNode" />
+              <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oc" type="462c0819:PsiDirectoryNode" />
               <item name="servlets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -1182,13 +419,25 @@
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projet3" type="462c0819:PsiDirectoryNode" />
+              <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1423,11 +672,14 @@
       <workItem from="1515283886182" duration="13930000" />
       <workItem from="1515343406841" duration="9839000" />
       <workItem from="1515375082093" duration="9655000" />
+      <workItem from="1515392084539" duration="1869000" />
+      <workItem from="1515428406756" duration="8772000" />
+      <workItem from="1515439425411" duration="442000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="183028000" />
+    <option name="totallyTimeSpent" value="194111000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1439,7 +691,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1448,25 +700,23 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.4978678" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1913646" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14925373" sideWeight="0.48166665" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30846325" sideWeight="0.4216418" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20512821" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2516704" sideWeight="0.57835823" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24860647" sideWeight="0.57835823" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.4978678" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.4978678" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30846325" sideWeight="0.57835823" order="15" side_tool="true" content_ui="tabs" x="4" y="522" width="1870" height="317" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30821148" sideWeight="0.71896726" order="15" side_tool="true" content_ui="tabs" x="4" y="522" width="1870" height="317" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24832962" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.080267556" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20469083" sideWeight="0.83296216" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20042644" sideWeight="0.16703786" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34632516" sideWeight="0.28304905" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25382933" sideWeight="0.8113821" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25382933" sideWeight="0.18861789" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20042644" sideWeight="0.16703786" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1474,7 +724,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="SQL Generator" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.49573562" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.4978678" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34533185" sideWeight="0.28103277" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1529,15 +781,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ce35268d-3051-43c1-95e4-a3e7fa315c84/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/resources/org/oc/escalade/webapp/Test.java" />
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/index.html" />
     <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/index.html" />
     <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/index.jsp" />
     <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/sites/sites.java" />
@@ -1602,14 +845,13 @@
     <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/Utilisateur.java" />
     <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/bdd/Noms.java" />
     <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/customer.jsp" />
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Test.java" />
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Test.java" />
     <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/MaServlet.java" />
     <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/bonjour.jsp" />
     <entry file="file://$PROJECT_DIR$/projet3-batch/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="356">
           <caret line="49" column="36" lean-forward="true" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1621,13 +863,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/Register.java" />
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/InfoSite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/resources/org.oc.escalade.projet3.webapp/webappContent.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -1679,7 +914,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1728,14 +962,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/welcome.jsp">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        <state relative-caret-position="460">
+          <caret line="148" column="0" lean-forward="false" selection-start-line="148" selection-start-column="0" selection-end-line="150" selection-end-column="83" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/tt.html" />
     <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/include/taglibs.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1744,45 +979,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/sites.jsp">
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/InfoSite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        <state relative-caret-position="476">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/onlyLogin.jsp" />
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/accueil.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Accueil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="255">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Login.java">
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Register.java">
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/sites.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="46" column="46" lean-forward="false" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1515381293032" expanded="true" signature="1009:1072" ph="insert into users... " />
-          </folding>
+        <state relative-caret-position="374">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Test.java">
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Contact.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="187">
+          <caret line="16" column="82" lean-forward="false" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="82" />
           <folding />
         </state>
       </provider>
@@ -1798,39 +1039,49 @@
     <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Welcome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <caret line="14" column="66" lean-forward="false" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="66" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/welcome.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="148" column="0" lean-forward="false" selection-start-line="148" selection-start-column="0" selection-end-line="150" selection-end-column="83" />
+        <state relative-caret-position="272">
+          <caret line="16" column="54" lean-forward="false" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Register.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding>
+            <marker date="1515438440423" expanded="true" signature="1006:1069" ph="insert into users... " />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="89" column="29" lean-forward="false" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Contact.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="16" column="70" lean-forward="false" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
+        <state relative-caret-position="360">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        <state relative-caret-position="153">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="73" lean-forward="false" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
           <folding />
         </state>
       </provider>

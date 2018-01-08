@@ -1,4 +1,4 @@
-package org.oc.servlets;
+package org.oc.forms;
 
 import java.io.*;
 import javax.servlet.*;
@@ -40,11 +40,7 @@ public class Register extends HttpServlet {
 
             if(i>0)
             {
-                //RequestDispatcher rs = request.getRequestDispatcher("/welcome");
-                //rs.forward(request, response);
-                out.println("Bravo vous êtes maintenant membre de notre communauté !</br>Utilisez vos identifiants pour vous identifier ");
-                RequestDispatcher rs = request.getRequestDispatcher("/");
-                rs.include(request, response);
+                response.sendRedirect("/welcome");
             }
 
         }
