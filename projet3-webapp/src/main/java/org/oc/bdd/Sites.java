@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import org.oc.beans.InfoSite;
-import org.oc.escalade.webapp.Test;
+
 public class Sites {
     private Connection connexion;
 

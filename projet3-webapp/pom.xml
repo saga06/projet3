@@ -15,7 +15,7 @@
   <packaging>war</packaging>
 
   <!-- ===== Informations générales ===== -->
-  <name>projet3-webapp Maven Webapp</name>
+  <name>projet3-webapp Maven webapp</name>
   <url>http://maven.apache.org</url>
 
     <organization>
@@ -82,6 +82,7 @@
               <artifactId>maven-war-plugin</artifactId>
               <version>3.2.0</version>
               <configuration>
+                  <webXml>src/main/webapp/WEB-INF/web.xml</webXml>
                   <webResources>
                       <resource>
                           <directory>src/main/webapp</directory>
@@ -89,7 +90,7 @@
                           <includes>
                               <include>jsp/_include/header.jsp</include>
                               <include>jsp/_include/footer.jsp</include>
-                              <include>jsp/about.jsp</include>
+                              <include>jsp/_include/about.jsp</include>
                           </includes>
                       </resource>
                   </webResources>

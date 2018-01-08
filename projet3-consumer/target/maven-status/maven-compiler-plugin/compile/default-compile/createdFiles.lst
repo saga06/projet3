@@ -1,1 +1,4 @@
 org\oc\escalade\consumer\App.class
+org\oc\escalade\consumer\contract\dao\ProjetDao.class
+org\oc\escalade\consumer\impl\dao\AbstractDaoImpl.class
+org\oc\escalade\consumer\impl\dao\projetDaoImpl.class
