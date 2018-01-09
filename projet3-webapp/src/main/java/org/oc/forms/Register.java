@@ -16,6 +16,7 @@ public class Register extends HttpServlet {
         String surname = request.getParameter("surname");
         String email = request.getParameter("email");
         String pass = request.getParameter("pass");
+        String nickname = request.getParameter("nickname");
 
         try{
 
@@ -28,7 +29,7 @@ public class Register extends HttpServlet {
                     ("jdbc:postgresql://localhost:5432/projet3","postgres","root");
 
             PreparedStatement ps=con.prepareStatement
-                    ("insert into users(email,pass,firstname,surname) values(?,?,?,?)");
+                    ("insert into users(email,pass,firstname,surname,nickname) values(?,?,?,?,?)");
 
 
 
@@ -36,6 +37,8 @@ public class Register extends HttpServlet {
             ps.setString(2, pass);
             ps.setString(3, firstname);
             ps.setString(4, surname);
+            ps.setString(5, nickname);
+
             int i=ps.executeUpdate();
 
             if(i>0)

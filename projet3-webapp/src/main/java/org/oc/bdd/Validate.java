@@ -4,7 +4,7 @@ import java.sql.*;
 
 public class Validate
 {
-    public static boolean checkUser(String email,String pass)
+    public static boolean checkUser(String nickname,String pass)
     {
         boolean st =false;
         try{
@@ -18,8 +18,9 @@ public class Validate
                     ("jdbc:postgresql://localhost:5432/projet3","postgres","root");
 
             PreparedStatement ps = con.prepareStatement
-                    ("select * from users where email=? and pass=?");
-            ps.setString(1, email);
+                    ("select * from users where nickname=? and pass=?");
+
+            ps.setString(1, nickname);
             ps.setString(2, pass);
             ResultSet rs = ps.executeQuery();
             st = rs.next();

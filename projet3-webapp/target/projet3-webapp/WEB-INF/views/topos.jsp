@@ -8,6 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" %>
 
 <html>
+<c:if test="${empty sessionScope.nickname}">
+    <c:redirect url="index.html"></c:redirect>
+</c:if>
 <head>
     <title>Title</title>
 </head>

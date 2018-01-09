@@ -12,3 +12,7 @@
     <li><a href="topos">Espace de prêts de topo</a></li>
     <li><a href="contact">Contacts</a></li>
 </ul>
+<form action="logout" method="post">
+    <input type="submit" value="Déconnexion">
+</form>
+

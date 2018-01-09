@@ -8,6 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 
 <html>
+<c:if test="${empty sessionScope.nickname}">
+    <c:redirect url="index.html"></c:redirect>
+</c:if>
 <head>
     <title>Sites</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">

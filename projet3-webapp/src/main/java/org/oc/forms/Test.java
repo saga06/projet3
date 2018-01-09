@@ -24,8 +24,12 @@ public class Test extends HttpServlet {
 
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        //Pour la récupération de données en BDD, on créé un objet de type "Sites" qui correspond à la connection à la BDD et effectue la requête SQL.
+        //Cet objet est volontairement séparé de la servlet pour éviter de mélanger le code sql et le controleur
         Sites tableSites = new Sites();
 
+        //On appelle la méthode recupererInfosites() qui va renvoyer une liste d'objet infosite que l'on transmet ensuite à la jsp pour afficher les infos de la table
+        // Ainsi la jsp possède une liste d'infosites dans laquelle on va faire une boucle
         request.setAttribute("infoSites", tableSites.recupererInfoSites());
 
 

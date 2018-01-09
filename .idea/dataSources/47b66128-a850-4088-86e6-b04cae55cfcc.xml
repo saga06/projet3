@@ -28,8 +28,8 @@
     </role>
     <schema id="6" parent="2" name="public">
       <ObjectId>2200</ObjectId>
-      <IntrospectionTimestamp>2018-01-06.17:04:03.136</IntrospectionTimestamp>
-      <IntrospectionStateNumber>698</IntrospectionStateNumber>
+      <IntrospectionTimestamp>2018-01-08.21:57:07.496</IntrospectionTimestamp>
+      <IntrospectionStateNumber>768</IntrospectionStateNumber>
       <Current>1</Current>
       <Visible>1</Visible>
     </schema>
@@ -141,7 +141,7 @@
     </table>
     <table id="28" parent="6" name="users">
       <ObjectId>32886</ObjectId>
-      <StateNumber>698</StateNumber>
+      <StateNumber>765</StateNumber>
     </table>
     <table id="29" parent="6" name="way">
       <ObjectId>16420</ObjectId>
@@ -498,33 +498,40 @@
       <StateNumber>696</StateNumber>
       <TypeId>1043</TypeId>
     </column>
-    <index id="89" parent="28" name="user_pkey">
+    <column id="89" parent="28" name="nickname">
+      <Position>6</Position>
+      <DataType>varchar|0</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>768</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <index id="90" parent="28" name="user_pkey">
       <ObjectId>32893</ObjectId>
       <ColNames>user_id</ColNames>
       <Unique>1</Unique>
     </index>
-    <key id="90" parent="28" name="user_pkey">
+    <key id="91" parent="28" name="user_pkey">
       <ObjectId>32894</ObjectId>
       <ColNames>user_id</ColNames>
       <UnderlyingIndexName>user_pkey</UnderlyingIndexName>
       <Primary>1</Primary>
     </key>
-    <column id="91" parent="29" name="name">
+    <column id="92" parent="29" name="name">
       <Position>3</Position>
       <DataType>varchar|0</DataType>
       <StateNumber>565</StateNumber>
     </column>
-    <column id="92" parent="29" name="height">
+    <column id="93" parent="29" name="height">
       <Position>4</Position>
       <DataType>real|0</DataType>
       <StateNumber>566</StateNumber>
     </column>
-    <column id="93" parent="29" name="quotation">
+    <column id="94" parent="29" name="quotation">
       <Position>5</Position>
       <DataType>varchar|0</DataType>
       <StateNumber>567</StateNumber>
     </column>
-    <column id="94" parent="29" name="way_id">
+    <column id="95" parent="29" name="way_id">
       <Position>6</Position>
       <DataType>integer|0</DataType>
       <NotNull>1</NotNull>
@@ -532,27 +539,27 @@
       <DefaultExpression>nextval(&apos;way_way_id_seq&apos;::regclass)</DefaultExpression>
       <SequenceName>way_way_id_seq</SequenceName>
     </column>
-    <column id="95" parent="29" name="sector_id">
+    <column id="96" parent="29" name="sector_id">
       <Position>7</Position>
       <DataType>integer|0</DataType>
       <StateNumber>616</StateNumber>
     </column>
-    <index id="96" parent="29" name="way_pkey">
+    <index id="97" parent="29" name="way_pkey">
       <ObjectId>16554</ObjectId>
       <ColNames>way_id</ColNames>
       <Unique>1</Unique>
     </index>
-    <index id="97" parent="29" name="fki_sector_id">
+    <index id="98" parent="29" name="fki_sector_id">
       <ObjectId>16571</ObjectId>
       <ColNames>sector_id</ColNames>
     </index>
-    <key id="98" parent="29" name="way_pkey">
+    <key id="99" parent="29" name="way_pkey">
       <ObjectId>16555</ObjectId>
       <ColNames>way_id</ColNames>
       <UnderlyingIndexName>way_pkey</UnderlyingIndexName>
       <Primary>1</Primary>
     </key>
-    <foreign-key id="99" parent="29" name="sector_id">
+    <foreign-key id="100" parent="29" name="sector_id">
       <ObjectId>16566</ObjectId>
       <ColNames>sector_id</ColNames>
       <RefTableId>16405</RefTableId>

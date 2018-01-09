@@ -92,6 +92,42 @@
         <url-pattern>/contact</url-pattern>
     </servlet-mapping>
 
+    <!-- Commentaires -->
+
+    <servlet>
+        <servlet-name>Comment</servlet-name>
+        <servlet-class>org.oc.forms.Comment</servlet-class>
+    </servlet>
+
+
+    <servlet-mapping>
+        <servlet-name>Comment</servlet-name>
+        <url-pattern>/comment</url-pattern>
+    </servlet-mapping>
+
+    <!-- Logout -->
+    <servlet>
+        <servlet-name>Logout</servlet-name>
+        <servlet-class>org.oc.forms.Logout</servlet-class>
+    </servlet>
+
+
+    <servlet-mapping>
+        <servlet-name>Logout</servlet-name>
+        <url-pattern>/logout</url-pattern>
+    </servlet-mapping>
+
+    <!-- Bye-->
+
+    <servlet>
+        <servlet-name>Bye</servlet-name>
+        <servlet-class>org.oc.servlets.Bye</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Bye</servlet-name>
+        <url-pattern>/goodbye</url-pattern>
+    </servlet-mapping>
 
 
 
