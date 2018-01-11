@@ -19,6 +19,20 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
+<link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css"/>
+
+
+<script type="text/javascript" src="//cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+<script>
+    $(document).ready(function(){
+        $('#table_id').DataTable();
+    });
+</script>
+
+<c:if test="${ !empty erreur }">
+    <p style="color:red;"><c:out value="${ erreur }" /></p>
+</c:if>
+
 <%@include file="include/menu.jsp"%>
 
 <c:if test="${ !empty pseudo}">
@@ -31,16 +45,17 @@
 
 <div class="container">
     <h2>Ici vous trouverez la liste des sites</h2>
-    <table class="table table-bordered">
+    <table id="table_id" class="display" class="table table-striped">
         <thead>
         <tr>
             <th>Nom du site</th>
             <th>Localisation</th>
             <th>Code postal</th>
             <th>Description</th>
-            <th>ID du site</th>
             <th>Latitude</th>
             <th>Longitude</th>
+            <th>Détails</th>
+
         </tr>
         </thead>
         <tbody>
@@ -51,9 +66,10 @@
             <td><c:out value="${ infoSite.location }" /></td>
             <td><c:out value="${ infoSite.zipcode }" /></td>
             <td><c:out value="${ infoSite.description }" /></td>
-            <td><a href="sites?ID=<c:out value="${ infoSite.site_id }"/>">${ infoSite.site_id }</a></td>
             <td><c:out value="${ infoSite.latitude }" /></td>
             <td><c:out value="${ infoSite.longitude }" /></td>
+            <td><a href="secteurs?ID=<c:out value="${ infoSite.site_id }"/>"><button type="button" class="btn btn-info">Plus d'informations</button></a></td>
+
         </tr>
         </c:forEach>
 

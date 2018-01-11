@@ -1,8 +1,6 @@
 package org.oc.beans;
 
-import org.oc.beans.Sector;
-
-public class Way extends Sector {
+public class Way extends InfoSecteur {
     private String nameWay;
     private int heightWay;
     private String quotationWay;

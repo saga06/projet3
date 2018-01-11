@@ -19,7 +19,7 @@
       <module name="projet3-business" target="1.5" />
       <module name="projet3-consumer" target="1.5" />
       <module name="projet3-model" target="1.5" />
-      <module name="projet3-webapp" target="1.5" />
+      <module name="projet3-webapp" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>

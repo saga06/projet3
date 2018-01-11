@@ -8,7 +8,7 @@ import javax.servlet.http.*;
 import java.sql.*;
 
 public class Login extends HttpServlet {
-
+    
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
         response.setContentType("text/html;charset=UTF-8");

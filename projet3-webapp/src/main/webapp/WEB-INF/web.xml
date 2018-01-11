@@ -58,12 +58,23 @@
     <!-- Sites d'escalade description -->
     <servlet>
         <servlet-name>Test</servlet-name>
-        <servlet-class>org.oc.forms.Test</servlet-class>
+        <servlet-class>org.oc.servlets.Test</servlet-class>
     </servlet>
 
     <servlet-mapping>
         <servlet-name>Test</servlet-name>
         <url-pattern>/sites</url-pattern>
+    </servlet-mapping>
+
+    <!-- Secteur description -->
+    <servlet>
+        <servlet-name>Secteur</servlet-name>
+        <servlet-class>org.oc.servlets.Secteur</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Secteur</servlet-name>
+        <url-pattern>/secteurs</url-pattern>
     </servlet-mapping>
 
 
@@ -123,6 +134,7 @@
         <servlet-name>Bye</servlet-name>
         <servlet-class>org.oc.servlets.Bye</servlet-class>
     </servlet>
+
 
     <servlet-mapping>
         <servlet-name>Bye</servlet-name>
