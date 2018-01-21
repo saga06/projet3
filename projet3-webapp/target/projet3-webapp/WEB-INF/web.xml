@@ -58,7 +58,7 @@
     <!-- Sites d'escalade description -->
     <servlet>
         <servlet-name>Test</servlet-name>
-        <servlet-class>org.oc.servlets.Test</servlet-class>
+        <servlet-class>org.oc.servlets.Site</servlet-class>
     </servlet>
 
     <servlet-mapping>
@@ -77,6 +77,38 @@
         <url-pattern>/secteurs</url-pattern>
     </servlet-mapping>
 
+    <!-- Voie description -->
+    <servlet>
+        <servlet-name>Voie</servlet-name>
+        <servlet-class>org.oc.servlets.Voie</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Voie</servlet-name>
+        <url-pattern>/voies</url-pattern>
+    </servlet-mapping>
+
+    <!-- Longueur description -->
+
+    <servlet>
+        <servlet-name>Longueur</servlet-name>
+        <servlet-class>org.oc.servlets.Longueur</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Longueur</servlet-name>
+        <url-pattern>/longueurs</url-pattern>
+    </servlet-mapping>
+
+    <!-- Point description -->
+
+    <servlet>
+        <servlet-name>Point</servlet-name>
+        <servlet-class>org.oc.servlets.Point</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Point</servlet-name>
+        <url-pattern>/points</url-pattern>
+    </servlet-mapping>
 
 
     <!-- Topos sharing page-->
@@ -90,6 +122,19 @@
         <servlet-name>Topos</servlet-name>
         <url-pattern>/topos</url-pattern>
     </servlet-mapping>
+
+    <!-- Topos sharing page-->
+    <servlet>
+        <servlet-name>TopoShare</servlet-name>
+        <servlet-class>org.oc.servlets.TopoShare</servlet-class>
+    </servlet>
+
+
+    <servlet-mapping>
+        <servlet-name>TopoShare</servlet-name>
+        <url-pattern>/topos-share</url-pattern>
+    </servlet-mapping>
+
 
     <!-- Contact page-->
     <servlet>
@@ -135,7 +180,6 @@
         <servlet-class>org.oc.servlets.Bye</servlet-class>
     </servlet>
 
-
     <servlet-mapping>
         <servlet-name>Bye</servlet-name>
         <url-pattern>/goodbye</url-pattern>
@@ -163,6 +207,24 @@
             <include-prelude>include/taglibs.jsp</include-prelude>
         </jsp-property-group>
     </jsp-config>
+
+   <!--  FOr the UTF8 problem
+    <filter>
+        <filter-name>Set Character Encoding</filter-name>
+        <filter-class>org.apache.catalina.filters.SetCharacterEncodingFilter</filter-class>
+        <init-param>
+            <param-name>encoding</param-name>
+            <param-value>UTF-8</param-value>
+        </init-param>
+        <init-param>
+            <param-name>ignore</param-name>
+            <param-value>false</param-value>
+        </init-param>
+    </filter>
+    <filter-mapping>
+        <filter-name>Set Character Encoding</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>-->
 
 
 

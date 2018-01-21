@@ -11,6 +11,8 @@
 <html>
 <head>
     <title>See you !!</title>
+    <link rel="icon" type="image/png" href="../img/ico.ico" />
+
 </head>
 <body>
 <p>Vous avez été déconnecté avec succès</p>

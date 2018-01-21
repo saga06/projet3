@@ -6,73 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc21b869-51e4-416e-83d2-aea4bb2d049d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/DaoFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoSecteurDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoSecteurDaoImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoSiteDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoSiteDaoImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Secteur.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/secteurs.jsp" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/projet3-batch/projet3-batch.iml" afterPath="$PROJECT_DIR$/projet3-batch/projet3-batch.iml" />
-      <change beforePath="$PROJECT_DIR$/projet3-business/projet3-business.iml" afterPath="$PROJECT_DIR$/projet3-business/projet3-business.iml" />
-      <change beforePath="$PROJECT_DIR$/projet3-consumer/projet3-consumer.iml" afterPath="$PROJECT_DIR$/projet3-consumer/projet3-consumer.iml" />
-      <change beforePath="$PROJECT_DIR$/projet3-model/projet3-model.iml" afterPath="$PROJECT_DIR$/projet3-model/projet3-model.iml" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/pom.xml" afterPath="$PROJECT_DIR$/projet3-webapp/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/projet3-webapp.iml" afterPath="$PROJECT_DIR$/projet3-webapp/projet3-webapp.iml" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/bdd/Sites.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/InfoSite.java" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/InfoSite.java" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/Sector.java" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/InfoSecteur.java" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/Way.java" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/Way.java" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Login.java" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Login.java" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Test.java" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Test.java" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/sites.jsp" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/sites.jsp" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/bdd/Sites.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/bdd/Validate.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/bdd/Validate.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/beans/InfoSite.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/beans/InfoSite.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/beans/Length.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/beans/Length.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/beans/Point.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/beans/Point.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/beans/Sector.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/beans/Way.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/beans/Way.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/forms/Comment.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/forms/Comment.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/forms/Login.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/forms/Login.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/forms/Logout.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/forms/Logout.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/forms/Register.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/forms/Register.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/forms/Test.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/servlets/Accueil.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/servlets/Accueil.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/servlets/Bye.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/servlets/Bye.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/servlets/Contact.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/servlets/Contact.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/servlets/Topos.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/servlets/Topos.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/servlets/Welcome.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/servlets/Welcome.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/bdd/Sites.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/bdd/Validate.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/bdd/Validate.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/beans/InfoSite.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/beans/InfoSite.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/beans/Length.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/beans/Length.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/beans/Point.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/beans/Point.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/beans/Sector.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/beans/Way.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/beans/Way.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/forms/Comment.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/forms/Comment.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/forms/Login.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/forms/Login.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/forms/Logout.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/forms/Logout.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/forms/Register.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/forms/Register.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/forms/Test.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/servlets/Accueil.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/servlets/Accueil.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/servlets/Bye.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/servlets/Bye.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/servlets/Contact.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/servlets/Contact.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/servlets/Topos.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/servlets/Topos.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/servlets/Welcome.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/servlets/Welcome.class" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/lib/projet3-business-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/lib/projet3-business-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/lib/projet3-consumer-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/lib/projet3-consumer-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/lib/projet3-model-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/lib/projet3-model-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/views/sites.jsp" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/views/sites.jsp" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/web.xml" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/jsp/_include/about.jsp" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/jsp/_include/about.jsp" />
-      <change beforePath="$PROJECT_DIR$/projet3.iml" afterPath="$PROJECT_DIR$/projet3.iml" />
-    </list>
+    <list default="true" id="dc21b869-51e4-416e-83d2-aea4bb2d049d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/projet3-consumer/target/" />
     <ignored path="$PROJECT_DIR$/projet3-batch/target/" />
@@ -133,7 +67,7 @@
         <item name="projet3: database" type="6d9b600a:PostgresImplModel$Database" />
         <item name="public: schema" type="a16502c0:PostgresImplModel$Schema" />
         <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="users: table" type="a93d6ac6:PostgresImplModel$LocalTable" />
+        <item name="topo_booking: table" type="a93d6ac6:PostgresImplModel$LocalTable" />
       </path>
     </expand>
     <select />
@@ -146,8 +80,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            <state relative-caret-position="86">
+              <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -165,39 +99,40 @@
         <option value="Jsp File" />
       </list>
     </option>
+    <option name="SCHEME" value="Project" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>index.</find>
-      <find>/login</find>
-      <find>welcome</find>
-      <find>welcom</find>
-      <find>setat</find>
-      <find>Location</find>
-      <find>email</find>
-      <find>goodby</find>
-      <find>jdbc</find>
-      <find>insert</find>
-      <find>class In</find>
-      <find>class Info</find>
-      <find>Sites</find>
-      <find>bdd.s</find>
-      <find>sites</find>
-      <find>dao</find>
-      <find>infosite</find>
-      <find>ajouter</find>
-      <find>beanex</find>
-      <find>resources</find>
-      <find>InfoSite</find>
-      <find>infoSite</find>
-      <find>infoSites</find>
-      <find>InfoSiteDaoImpl</find>
-      <find>site_id</find>
-      <find>getInfoS</find>
-      <find>Secteur</find>
       <find>siteId</find>
       <find>connection</find>
       <find>result</find>
+      <find>ajouter</find>
+      <find>Site</find>
+      <find>int ID</find>
+      <find>infoSecteur</find>
+      <find>valueOf</find>
+      <find>value</find>
+      <find>ps</find>
+      <find>statement</find>
+      <find>title</find>
+      <find>tit</find>
+      <find>NbPoint</find>
+      <find>NbPo</find>
+      <find>sect</find>
+      <find>site_id</find>
+      <find>secteur</find>
+      <find>InfoVoieDao</find>
+      <find>Secteur</find>
+      <find>longu</find>
+      <find>longueur</find>
+      <find>infoCommentDao</find>
+      <find>session</find>
+      <find>infobo</find>
+      <find>owne</find>
+      <find>wau</find>
+      <find>share-s</find>
+      <find>borrower_nickn</find>
+      <find>orrower_nickn</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\sgahama\eclipse-workspace\projet3\projet3-webapp\src\main</dir>
@@ -216,57 +151,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/sites.jsp" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/WebContent/index.jsp" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/WebContent/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/projet3-webapp/pom.xml" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Login.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/taglibs.jsp" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Contact.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Topos.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/tt.html" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/OLogin.jsp" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/onlyLogin.jsp" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Register.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Accueil.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Welcome.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/bdd/WhoAreYou.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/InfoUser.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/bdd/getUserInfo.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/index.html" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Register.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/bdd/Validate.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Comment.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/welcome.jsp" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/accueil.jsp" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/contact.jsp" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/topos.jsp" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/include/menu.jsp" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Bye.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Logout.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/goodbye.jsp" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/bdd/Sites.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Test.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfositeDAO.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfositeDaoImpl.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoSiteDao.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/BeanException.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/DaoException.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/Site.java" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/InfoSite.java" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoSiteDaoImpl.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Test.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Login.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/infoSecteurDaoImpl.java" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoSecteurDao.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/DaoFactory.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/InfoSecteur.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/secteur.jsp" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/sites.jsp" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/secteurs.jsp" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Secteur.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Site.java" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoSecteurDaoImpl.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/InfoSecteur.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/InfoVoie.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Voie.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoVoieDaoImpl.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoLongueurDao.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/InfoLongueur.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoVoieDao.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoLongueurDaoImpl.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Longueur.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/InfoPoint.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoPointDaoImpl.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoPointDao.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Point.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/Comment.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoCommentDao.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoCommentDaoImpl.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Secteur.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/InfoTopo.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoTopoDao.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoTopoDaoImpl.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Topos.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/InfoTopoBooking.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoBookingDao.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/DaoFactory.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Login.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/pp.jsp" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/mm.jsp" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/jhf.jsp" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/InfoBooking.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/TopoShare.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoBookingDaoImpl.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/accueil.jsp" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/include/menu.jsp" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/goodbye.jsp" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/longueurs.jsp" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/points.jsp" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/secteurs.jsp" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/sites.jsp" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/topos.jsp" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/topos-share.jsp" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/voies.jsp" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/welcome.jsp" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/contact.jsp" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/index.html" />
       </list>
     </option>
   </component>
@@ -306,10 +241,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
     <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -319,7 +254,19 @@
             <id />
           </State>
           <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
             <id>Android &gt; Lint &gt; Internationalization</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
           </State>
           <State>
             <id>Internationalization issues</id>
@@ -329,6 +276,12 @@
           </State>
           <State>
             <id>Java</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>WebSocket issues</id>
           </State>
         </expanded-state>
         <selected-state>
@@ -357,9 +310,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -392,16 +343,124 @@
               <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projet3" type="462c0819:PsiDirectoryNode" />
+              <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projet3" type="462c0819:PsiDirectoryNode" />
+              <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oc" type="462c0819:PsiDirectoryNode" />
+              <item name="bdd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projet3" type="462c0819:PsiDirectoryNode" />
+              <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oc" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projet3" type="462c0819:PsiDirectoryNode" />
+              <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oc" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projet3" type="462c0819:PsiDirectoryNode" />
+              <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oc" type="462c0819:PsiDirectoryNode" />
+              <item name="forms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projet3" type="462c0819:PsiDirectoryNode" />
+              <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oc" type="462c0819:PsiDirectoryNode" />
+              <item name="servlets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projet3" type="462c0819:PsiDirectoryNode" />
+              <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projet3" type="462c0819:PsiDirectoryNode" />
+              <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="style" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projet3" type="462c0819:PsiDirectoryNode" />
+              <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projet3" type="462c0819:PsiDirectoryNode" />
+              <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projet3" type="462c0819:PsiDirectoryNode" />
+              <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -411,19 +470,21 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2718894" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="PostgreSQL" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/sgahama/eclipse-workspace/projet3/projet3-webapp/src/main/java/org/oc/dao/InfoSiteDaoImpl.java" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sgahama\eclipse-workspace\projet3\projet3-webapp\src\main\webapp\WEB-INF\views" />
       <recent name="C:\Users\sgahama\eclipse-workspace\projet3\projet3-webapp\src\main\webapp\WEB-INF\views\include" />
       <recent name="C:\Users\sgahama\eclipse-workspace\projet3\projet3-webapp\src\main\webapp\WEB-INF" />
       <recent name="C:\Users\sgahama\eclipse-workspace\projet3\projet3-webapp\src\main\WebContent\WEB-INF" />
       <recent name="C:\Users\sgahama\eclipse-workspace\projet3\projet3-webapp\src\main\WebContent\WEB-INF\views\include" />
-      <recent name="C:\Users\sgahama\eclipse-workspace\projet3\projet3-webapp\src\main\WebContent\WEB-INF\classe" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\sgahama\eclipse-workspace\projet3\projet3-webapp\src\main\webapp\WEB-INF\lib" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.oc.dao" />
       <recent name="org.oc.escalade.consumer.impl.dao" />
       <recent name="org.oc.escalade.consumer.contract.dao" />
     </key>
@@ -639,11 +700,19 @@
       <workItem from="1515531164009" duration="6012000" />
       <workItem from="1515603023664" duration="2820000" />
       <workItem from="1515614540264" duration="11772000" />
+      <workItem from="1515688945493" duration="45702000" />
+      <workItem from="1515857167529" duration="26714000" />
+      <workItem from="1516364884189" duration="11404000" />
+      <workItem from="1516394979990" duration="5743000" />
+      <workItem from="1516456565383" duration="7669000" />
+      <workItem from="1516466717499" duration="5951000" />
+      <workItem from="1516543473897" duration="103000" />
+      <workItem from="1516543687358" duration="7739000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="242152000" />
+    <option name="totallyTimeSpent" value="353736000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -655,8 +724,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="953" y="0" width="974" height="1040" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35897437" sideWeight="0.4824094" order="11" side_tool="true" content_ui="tabs" />
@@ -664,58 +732,33 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.392779" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32056892" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14925373" sideWeight="0.48166665" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30846325" sideWeight="0.41684434" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19182748" sideWeight="0.46002132" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20512821" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30846325" sideWeight="0.58315563" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.266147" sideWeight="0.5378465" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.4978678" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.4978678" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30846325" sideWeight="0.58315563" order="15" side_tool="true" content_ui="tabs" x="4" y="522" width="1870" height="317" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.266147" sideWeight="0.5399787" order="15" side_tool="true" content_ui="tabs" x="4" y="522" width="1870" height="317" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24832962" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.080267556" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18550107" sideWeight="0.7648953" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18550107" sideWeight="0.23510467" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34533185" sideWeight="0.28103277" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.02297593" sideWeight="0.79634833" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.02297593" sideWeight="0.20365168" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.344098" sideWeight="0.39392325" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20042644" sideWeight="0.16703786" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35897437" sideWeight="0.4824094" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19397993" sideWeight="0.51226693" order="0" side_tool="true" content_ui="tabs" x="747" y="308" width="426" height="424" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="SQL Generator" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.49573562" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.4978678" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.392779" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14925373" sideWeight="0.48166665" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30846325" sideWeight="0.4184435" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20512821" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24526198" sideWeight="0.57835823" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.4978678" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.4978678" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30846325" sideWeight="0.5815565" order="15" side_tool="true" content_ui="tabs" x="4" y="522" width="1870" height="317" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.080267556" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18550107" sideWeight="0.7648953" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18550107" sideWeight="0.23510467" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34533185" sideWeight="0.28103277" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20042644" sideWeight="0.16703786" order="5" side_tool="true" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -726,7 +769,21 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="11" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Secteur.java</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Secteur.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="112" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -735,173 +792,147 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/bonjour.jsp" />
-    <entry file="file://$PROJECT_DIR$/projet3-batch/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="49" column="36" lean-forward="true" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/oc/escalade/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/Register.java" />
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="54" column="14" lean-forward="false" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/jsp/_include/header.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/jsp/_include/footer.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/jsp/_include/about.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-model/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/tt.html" />
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/include/taglibs.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/onlyLogin.jsp" />
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Accueil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Contact.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="16" column="82" lean-forward="false" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Topos.java">
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoPointDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="14" column="70" lean-forward="false" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/bdd/WhoAreYou.java" />
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/bdd/getUserInfo.java" />
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/InfoUser.java" />
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/topos.jsp">
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Point.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        <state relative-caret-position="323">
+          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/accueil.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/contact.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/goodbye.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/welcome.jsp">
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoLongueurDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="10" column="38" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="10" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/include/menu.jsp">
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/InfoLongueur.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        <state relative-caret-position="102">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoSecteurDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoLongueurDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Logout.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="255">
+          <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Welcome.java">
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/InfoTopoDao.java" />
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoTopoDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="153">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Register.java">
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/InfoTopo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="119">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Bye.java">
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoTopoDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="527">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/gg.java" />
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/pom.xml">
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoSiteDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="18" lean-forward="false" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="102">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/bdd/Sites.java" />
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/DaoException.java" />
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/BeanException.java" />
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Site.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="46" column="47" lean-forward="true" selection-start-line="46" selection-start-column="47" selection-end-line="46" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoSiteDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="29" column="78" lean-forward="false" selection-start-line="29" selection-start-column="78" selection-end-line="29" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoCommentDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/InfoComment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoCommentDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="26" column="90" lean-forward="true" selection-start-line="26" selection-start-column="90" selection-end-line="26" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoPointDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoSecteurDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoBookingDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/DaoFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="781">
+          <caret line="62" column="1" lean-forward="true" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/bdd/Validate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -911,114 +942,219 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Login.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        <state relative-caret-position="378">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Comment.java">
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Contact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Servlet.java" />
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Longueur.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="52" column="51" lean-forward="false" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/pp.jsp" />
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/jhf.jsp" />
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Topos.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/resources/org.oc.escalade.projet3.webapp/webappContent.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/InfoSite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/DaoFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoSiteDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-685">
-          <caret line="25" column="51" lean-forward="true" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="77" column="22" lean-forward="true" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="29" column="57" lean-forward="true" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/InfoSecteur.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoSecteurDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/secteurs.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-22">
-          <caret line="56" column="68" lean-forward="false" selection-start-line="56" selection-start-column="68" selection-end-line="56" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/sites.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="70" column="33" lean-forward="false" selection-start-line="70" selection-start-column="33" selection-end-line="70" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoSiteDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Secteur.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="41" column="53" lean-forward="false" selection-start-line="41" selection-start-column="53" selection-end-line="41" selection-end-column="53" />
+        <state relative-caret-position="476">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoSecteurDaoImpl.java">
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="50" column="92" lean-forward="false" selection-start-line="50" selection-start-column="92" selection-end-line="50" selection-end-column="92" />
+        <state relative-caret-position="226">
+          <caret line="134" column="33" lean-forward="false" selection-start-line="134" selection-start-column="33" selection-end-line="134" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Voie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/style/form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/InfoBooking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/TopoShare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="35" column="41" lean-forward="true" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoBookingDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="43" column="45" lean-forward="true" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+          <folding>
+            <marker date="1516546747606" expanded="true" signature="1020:1044" ph="INSERT INTO public.\&quot;topoBooking\&quot;... " />
+            <marker date="1516546747606" expanded="true" signature="1020:1114" ph="INSERT INTO topoBooking... " />
+            <marker date="1516546747606" expanded="true" signature="1020:1133" ph="INSERT INTO comment... " />
+            <marker date="1516546747606" expanded="true" signature="1850:1993" ph="SELECT conte... comment" />
+            <marker date="1516546747606" expanded="true" signature="1850:1994" ph="SELECT topo_... topo_booking" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/include/menu.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/include/taglibs.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/mm.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/goodbye.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/accueil.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/topos-share.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/voies.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/welcome.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/contact.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/longueurs.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="16" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/points.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/secteurs.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="70" lean-forward="false" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/sites.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="62" lean-forward="false" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/topos.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="62" lean-forward="false" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        <state relative-caret-position="86">
+          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
           <folding />
         </state>
       </provider>

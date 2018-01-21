@@ -5,11 +5,13 @@
   Time: 19:36
   To change this template use File | Settings | File Templates.
 --%>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <meta http-equiv="Refresh" content="10;url=index.html">
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
     <title>Bienvenue</title>
+    <link rel="icon" type="image/png" href="../img/ico.ico" />
+
 </head>
 <body>
 <p>Bravo vous êtes maintenant membre de notre communauté !</p>

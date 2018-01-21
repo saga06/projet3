@@ -11,8 +11,9 @@ public class Login extends HttpServlet {
     
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
-        response.setContentType("text/html;charset=UTF-8");
+
         PrintWriter out = response.getWriter();
+
 
         String nickname = request.getParameter("nickname");
         String pass = request.getParameter("pass");
@@ -29,9 +30,13 @@ public class Login extends HttpServlet {
 
         else
         {
-            out.println("Identifiant ou mot de passe incorrect");
-            RequestDispatcher rs = request.getRequestDispatcher("/");
+
+
+            RequestDispatcher rs = request.getRequestDispatcher("index.html");
             rs.include(request, response);
+            out.println("<span class='messageBox'>Identifiant  ou mot de passe incorrect</span>");
+
+
         }
     }
 

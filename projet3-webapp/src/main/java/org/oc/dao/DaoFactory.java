@@ -1,5 +1,9 @@
 package org.oc.dao;
 
+import org.oc.beans.InfoComment;
+import org.oc.beans.InfoPoint;
+import org.oc.beans.InfoVoie;
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
@@ -49,5 +53,11 @@ public class DaoFactory {
     public InfoSecteurDao getInfoSecteurDao() {
         return  new InfoSecteurDaoImpl(this);
     }
+    public InfoVoieDao getInfoVoieDao() {return  new InfoVoieDaoImpl(this);}
+    public InfoLongueurDao getInfoLongueurDao() {return  new InfoLongueurDaoImpl(this);}
+    public InfoPointDao getInfoPointDao() {return new InfoPointDaoImpl(this);}
+    public InfoCommentDao getInfoCommentDao() {return  new InfoCommentDaoImpl(this);}
+    public InfoTopoDao getInfoTopoDao() {return  new InfoTopoDaoImpl(this);}
+    public InfoBookingDao getInfoBookingDao() {return  new InfoBookingDaoImpl(this);}
 
 }

@@ -49,6 +49,7 @@ public class InfoSiteDaoImpl implements InfoSiteDao {
         Statement statement = null;
         ResultSet resultat = null;
 
+
         try {
             connexion = daoFactory.getConnection();
             statement = connexion.createStatement();

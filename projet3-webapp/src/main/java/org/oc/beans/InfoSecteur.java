@@ -3,34 +3,44 @@ package org.oc.beans;
 import org.oc.beans.InfoSite;
 
 public class InfoSecteur extends InfoSite {
-    private String nameSector;
-    private String descriptionSector;
-    private int site_id;
+    private String name;
+    private String description;
+    public int site_id;
+    private int sector_id;
 
-    public String getNameSector() {
-        return nameSector;
+    public String getName() {
+        return name;
     }
 
-    public void setNameSector(String nameSector) {
-        this.nameSector = nameSector;
+    public void setName(String name) {
+        this.name = name;
     }
 
-    public String getDescriptionSector() {
-        return descriptionSector;
+    public String getDescription() {
+        return description;
     }
 
-    public void setDescriptionSector(String descriptionSector) {
-        this.descriptionSector = descriptionSector;
+    public void setDescription(String description) {
+        this.description = description;
     }
 
-    @Override
+
     public int getSite_id() {
         return site_id;
     }
 
-    @Override
+
     public void setSite_id(int site_id) {
         this.site_id = site_id;
+    }
+
+    public int getSector_id() {
+        return sector_id;
+    }
+
+
+    public void setSector_id(int sector_id) {
+        this.sector_id = sector_id;
     }
 }
 

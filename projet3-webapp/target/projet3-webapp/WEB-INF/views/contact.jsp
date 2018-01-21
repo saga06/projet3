@@ -11,9 +11,11 @@
     <c:redirect url="index.html"></c:redirect>
 </c:if>
 <head>
-    <title>contacts</title>
+    <title>Contacts</title>
+    <link rel="icon" type="image/png" href="../img/ico.ico" />
 </head>
 <body>
+<%@include file="include/menu.jsp"%>
 <p>
     Vous pouvez nous contacter par email ou tel etc etc ...
 </p>

@@ -17,7 +17,7 @@ public class InfoSecteurDaoImpl implements InfoSecteurDao {
         this.daoFactory = daoFactory;
     }
 
-    @Override
+
     public void ajouter(InfoSecteur infoSecteur) {
         Connection connexion = null;
         PreparedStatement preparedStatement = null;
@@ -39,16 +39,21 @@ public class InfoSecteurDaoImpl implements InfoSecteurDao {
     }
 
     @Override
-    public List<InfoSecteur> lister() {
+    public List<InfoSecteur> lister(int ID) {
         List<InfoSecteur> infoSecteurs = new ArrayList<InfoSecteur>();
         Connection connexion = null;
-        Statement statement = null;
+        PreparedStatement ps = null;
         ResultSet resultat = null;
+
 
         try {
             connexion = daoFactory.getConnection();
-            statement = connexion.createStatement();
-            resultat = statement.executeQuery("SELECT name, description, site_id FROM sector;");
+            ps = connexion.prepareStatement("SELECT name, description, site_id, sector_id FROM sector WHERE site_id=?");
+            ps.setInt(1, ID);
+
+            resultat = ps.executeQuery();
+
+
 
             // Récupération des données
             // On récupère un résultat brut de la bdd difficilement manipulable, donc on en extrait les donnés pour les stocker de manière plus propre et facile à manipuler grace au while
@@ -58,6 +63,7 @@ public class InfoSecteurDaoImpl implements InfoSecteurDao {
                 String name = resultat.getString("name");
                 String description = resultat.getString("description");
                 int site_id = resultat.getInt("site_id");
+                int sector_id =resultat.getInt("sector_id");
 
 
                 // On créé un java bean et on lui définit un nom et un prénom correspond à ceux que l'on vient de récupérer dans la bdd
@@ -65,6 +71,7 @@ public class InfoSecteurDaoImpl implements InfoSecteurDao {
                 infoSecteur.setName(name);
                 infoSecteur.setDescription(description);
                 infoSecteur.setSite_id(site_id);
+                infoSecteur.setSector_id(sector_id);
 
                 // on ajoute cet objet à un array (ou liste) grace à la méthode add. on ajout infoSecteur à infoSecteurs
                 infoSecteurs.add(infoSecteur);
@@ -75,6 +82,7 @@ public class InfoSecteurDaoImpl implements InfoSecteurDao {
         } return infoSecteurs;
 
     }
+
 
 
 }
