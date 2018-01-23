@@ -30,7 +30,7 @@ public class InfoSiteDaoImpl implements InfoSiteDao {
             preparedStatement = connexion.prepareStatement("INSERT INTO site( name, location, zipcode, description, latitude, longitude) VALUES(?, ?, ?, ?, ?, ?);");
             preparedStatement.setString(1, infoSite.getName());
             preparedStatement.setString(2, infoSite.getLocation());
-            preparedStatement.setInt(3, infoSite.getZipcode());
+            preparedStatement.setString(3, infoSite.getZipcode());
             preparedStatement.setString(4, infoSite.getDescription());
             preparedStatement.setString(5, infoSite.getLatitude());
             preparedStatement.setString(6, infoSite.getLongitude());
@@ -62,7 +62,7 @@ public class InfoSiteDaoImpl implements InfoSiteDao {
                 //resultat.getString => je m'attends à récupérer une chaine de caractère ou un nombre ou une date etc... puis on les tocke dans des objets de type string, int, etc...
                 String name = resultat.getString("name");
                 String location = resultat.getString("location");
-                int zipcode = resultat.getInt("zipcode");
+                String zipcode = resultat.getString("zipcode");
                 String description = resultat.getString("description");
                 int site_id = resultat.getInt("site_id");
                 String latitude = resultat.getString("latitude");

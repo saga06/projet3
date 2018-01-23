@@ -6,13 +6,34 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page pageEncoding="UTF-8" %>
-<ul>
-    <li><a href="accueil">Accueil</a></li>
-    <li><a href="sites">Les Sites</a></li>
-    <li><a href="topos">Espace de prêts de topo</a></li>
-    <li><a href="contact">Contacts</a></li>
-</ul>
-<form action="logout" method="post">
-    <input type="submit" value="Déconnexion">
-</form>
-
+<header class="clearfix">
+    <div class="container">
+        <div class="header-left">
+            <h1>Bonjour ${sessionScope.nickname }</h1>
+        </div>
+        <div class="header-right">
+            <label for="open">
+                <span class="hidden-desktop"></span>
+            </label>
+            <input type="checkbox" name="" id="open">
+            <nav>
+                <a href="accueil">Accueil</a>
+                <a href="sites">Les Sites</a>
+                <a href="topos">Espace de prêts de topo</a>
+                <a href="contact">Contact</a>
+            </nav>
+        </div>
+    </div>
+</header>
+<section class="clearfix">
+    <div class="container">
+        <div class="section-left">
+            <h1 class="section-title">Si tu veux atteindre le sommet, n'observe pas la montagne, escalade-là !</h1>
+        </div>
+        <div class="section-right">
+        <form action="logout" method="post">
+            <input type="submit" class="learn-more" value="Déconnexion">
+        </form>
+        </div>
+    </div>
+</section>

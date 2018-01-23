@@ -34,7 +34,7 @@ public class Login extends HttpServlet {
 
             RequestDispatcher rs = request.getRequestDispatcher("index.html");
             rs.include(request, response);
-            out.println("<span class='messageBox'>Identifiant  ou mot de passe incorrect</span>");
+            out.println("<div class='messageBox'>Identifiant  ou mot de passe incorrect</div>");
 
 
         }

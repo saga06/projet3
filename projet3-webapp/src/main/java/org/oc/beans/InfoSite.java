@@ -3,7 +3,7 @@ package org.oc.beans;
 public class InfoSite {
     private String name;
     private String location;
-    private int zipcode;
+    private String zipcode;
     private String description;
     private int site_id;
     private String latitude;
@@ -25,11 +25,11 @@ public class InfoSite {
         this.location = location;
     }
 
-    public int getZipcode() {
+    public String getZipcode() {
         return zipcode;
     }
 
-    public void setZipcode(int zipcode) {
+    public void setZipcode(String zipcode) {
         this.zipcode = zipcode;
     }
 

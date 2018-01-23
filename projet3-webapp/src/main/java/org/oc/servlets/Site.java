@@ -47,7 +47,7 @@ public class Site extends HttpServlet {
             InfoSite infoSite = new InfoSite();
             infoSite.setName(request.getParameter("name"));
             infoSite.setLocation(request.getParameter("location"));
-            infoSite.setZipcode(Integer.parseInt(request.getParameter("zipcode")));
+            infoSite.setZipcode(request.getParameter("zipcode"));
             infoSite.setDescription(request.getParameter("description"));
             infoSite.setLatitude(request.getParameter("latitude"));
             infoSite.setLongitude(request.getParameter("longitude"));
