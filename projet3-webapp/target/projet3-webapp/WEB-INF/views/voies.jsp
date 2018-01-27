@@ -5,8 +5,7 @@
   Time: 21:36
   To change this template use File | Settings | File Templates.
 --%>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
-
+<%@ page pageEncoding="UTF-8" %>
 <html>
     <c:if test="${empty sessionScope.nickname}">
         <c:redirect url="index.html"></c:redirect>
@@ -36,12 +35,12 @@
         </c:if>
         <div class="maindiv">
             <div class="container">
-                <h2>Ici tu trouveras la liste des voies du secteur sélectionné</h2>
+                <h2>Ici vous trouverez la liste des voies du secteur sélectionné</h2>
                 <table id="table_id" class="display" class="table table-striped">
                     <thead>
                         <tr>
                             <th>Nom de la voie</th>
-                            <th>Hauteur</th>
+                            <th>Hauteur (en mètres)</th>
                             <th>Cotation</th>
                             <th>Nombre de points</th>
                             <th>Détails</th>
@@ -61,13 +60,13 @@
                 </table>
             </div>
             <div class="container">
-                <h3>Tu souhaites ajouter une nouvelle voie à ce secteur ? Merci de compléter ces champs :</h3>
+                <h3>Vous souhaitez ajouter une nouvelle voie à ce secteur ? Merci de compléter ces champs :</h3>
                 <table class="table table-bordered">
                     <form method="post" action="voies">
                         <thead>
                             <tr>
                                 <th><label for="name">Nom : </label></th>
-                                <th><label for="height">Hauteur : </label></th>
+                                <th><label for="height">Hauteur (en mètres) : </label></th>
                                 <th><label for="quotation">Cotation : </label></th>
                                 <th><label for="nb_point">Nombre de point : </label></th>
                             </tr>
@@ -75,9 +74,9 @@
                         <tbody>
                         <tr>
                             <td><input type="text" name="name" id="name" required/></td>
-                            <td><input type="text" name="height" id="height" required/></td>
+                            <td><input type="text" name="height" id="height" onkeypress='return event.charCode >= 48 && event.charCode <= 57' required/></td>
                             <td><input type="text" name="quotation" id="quotation" required/></td>
-                            <td><input type="text" name="nb_point" id="nb_point" required/></td>
+                            <td><input type="text" name="nb_point" id="nb_point" onkeypress='return event.charCode >= 48 && event.charCode <= 57' required/></td>
                             <input type="hidden" name="sector_id" id="sector_id" value="${ID}"/>
                             <td><input type="submit" value="Ajouter" /></td>
                         </tr>

@@ -3,8 +3,6 @@ package org.oc.dao;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
-
-
 import org.oc.beans.InfoBooking;
 
 // C'est ici que l'on trouve véritablement les requêtes SQL

@@ -4,6 +4,10 @@ import java.io.*;
 import javax.servlet.*;
 import javax.servlet.http.*;
 import java.sql.*;
+import java.io.InputStream;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.util.Properties;
 
 public class Register extends HttpServlet {
 
@@ -18,15 +22,34 @@ public class Register extends HttpServlet {
         String pass = request.getParameter("pass");
         String nickname = request.getParameter("nickname");
 
+        String FICHIER_PROPERTIES       = "/dao.properties";
+        String PROPERTY_URL             = "url";
+        String PROPERTY_DRIVER          = "driver";
+        String PROPERTY_NOM_UTILISATEUR = "nomutilisateur";
+        String PROPERTY_MOT_DE_PASSE    = "motdepasse";
+
+        Properties properties = new Properties();
+        String url;
+        String driver;
+        String nomUtilisateur;
+        String motDePasse;
+        ClassLoader classLoader = Thread.currentThread().getContextClassLoader();
+        InputStream fichierProperties = classLoader.getResourceAsStream( FICHIER_PROPERTIES );
+
         try{
+            properties.load( fichierProperties );
+            url = properties.getProperty( PROPERTY_URL );
+            driver = properties.getProperty( PROPERTY_DRIVER );
+            nomUtilisateur = properties.getProperty( PROPERTY_NOM_UTILISATEUR );
+            motDePasse = properties.getProperty( PROPERTY_MOT_DE_PASSE );
 
             //loading drivers for mysql
-            Class.forName("org.postgresql.Driver");
-
+            Class.forName(driver);
 
             //creating connection with the database
             Connection con=DriverManager.getConnection
-                    ("jdbc:postgresql://localhost:5432/projet3","postgres","root");
+                    (url, nomUtilisateur, motDePasse);
+
 
             PreparedStatement ps=con.prepareStatement
                     ("insert into users(email,pass,firstname,surname,nickname) values(?,?,?,?,?)");

@@ -19,7 +19,7 @@ public class Login extends HttpServlet {
         String pass = request.getParameter("pass");
 
 
-        if(Validate.checkUser(nickname, pass))
+        if(Validate.checkUser( nickname,pass))
         {
             HttpSession session = request.getSession();
             session.setAttribute("nickname", nickname);
@@ -31,11 +31,9 @@ public class Login extends HttpServlet {
         else
         {
 
-
             RequestDispatcher rs = request.getRequestDispatcher("index.html");
             rs.include(request, response);
             out.println("<div class='messageBox'>Identifiant  ou mot de passe incorrect</div>");
-
 
         }
     }

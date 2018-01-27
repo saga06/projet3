@@ -1,15 +1,14 @@
 package org.oc.dao;
 
-import org.oc.beans.InfoComment;
-import org.oc.beans.InfoPoint;
-import org.oc.beans.InfoVoie;
-
+import java.io.IOException;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
+import java.io.InputStream;
+import java.util.Properties;
 
 //Dans ce fichier on initialise le DAO, c'est ici qu'on fait la connexion à la bdd
-// puis qu'on va préchargé un objet en mémoire où la connexion est déjà faite
+//puis qu'on va préchargé un objet en mémoire où la connexion est déjà faite
 //
 public class DaoFactory {
 
@@ -21,18 +20,39 @@ public class DaoFactory {
         this.url = url;
         this.username = username;
         this.password = password;
-
     }
+
+    private static final String FICHIER_PROPERTIES       = "/dao.properties";
+    private static final String PROPERTY_URL             = "url";
+    private static final String PROPERTY_DRIVER          = "driver";
+    private static final String PROPERTY_NOM_UTILISATEUR = "nomutilisateur";
+    private static final String PROPERTY_MOT_DE_PASSE    = "motdepasse";
 
     // Dans cette méthode static getInstance(), on charge le driver JDBC et on se connecte à la BDD
     public static DaoFactory getInstance() {
+        Properties properties = new Properties();
+        String url = null;
+        String driver;
+        String nomUtilisateur = null ;
+        String motDePasse = null ;
+        ClassLoader classLoader = Thread.currentThread().getContextClassLoader();
+        InputStream fichierProperties = classLoader.getResourceAsStream( FICHIER_PROPERTIES );
+
         try {
-            Class.forName("org.postgresql.Driver");
+            properties.load( fichierProperties );
+            url = properties.getProperty( PROPERTY_URL );
+            driver = properties.getProperty( PROPERTY_DRIVER );
+            nomUtilisateur = properties.getProperty( PROPERTY_NOM_UTILISATEUR );
+            motDePasse = properties.getProperty( PROPERTY_MOT_DE_PASSE );
+
+            //loading drivers for postgreSQL
+            Class.forName(driver);
         } catch (ClassNotFoundException e) {
+        } catch (IOException e) {
+            e.printStackTrace();
         }
 
-        DaoFactory instance = new DaoFactory (
-                "jdbc:postgresql://localhost:5432/projet3","postgres", "root");
+        DaoFactory instance = new DaoFactory (url, nomUtilisateur, motDePasse);
         return instance;
     }
 

@@ -5,14 +5,14 @@
   Time: 21:36
   To change this template use File | Settings | File Templates.
 --%>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
-
+<%@ page pageEncoding="UTF-8" %>
 <html>
     <c:if test="${empty sessionScope.nickname}">
         <c:redirect url="index.html"></c:redirect>
     </c:if>
     <head>
         <title>Topos</title>
+        <meta charset="utf-8" />
         <link rel="icon" type="image/png" href="../img/ico.ico" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -32,7 +32,7 @@
         <%@include file="include/menu.jsp"%>
         <div class="maindiv">
             <div class="container">
-                <h2>Ici tu trouveras la liste des topos</h2>
+                <h2>Ici vous trouverez la liste des topos</h2>
                 <table id="table_id" class="display" class="table table-striped">
                     <thead>
                         <tr>
@@ -40,7 +40,7 @@
                             <th>Nom du site concerné</th>
                             <th>Description</th>
                             <%--<th>Disponibilité</th>--%>
-                            <th>Pseudo du propriétaire</th>
+                            <th>Pseudo du proprietaire</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -62,14 +62,14 @@
                 </table>
             </div>
             <div class="container">
-                <h3>Tu souhaites ajouter un nouveau topo ? Merci de compléter ces champs :</h3>
+                <h3>Vous souhaitez ajouter un nouveau topo ? Merci de completer ces champs :</h3>
                 <table class="table table-bordered">
                     <form method="post" action="topos">
                         <thead>
                             <tr>
                                 <th><label for="topo_name">Nom : </label></th>
                                 <th><label for="description">Description: </label></th>
-                                <th><label for="site_id">Site concerné: </label></th>
+                                <th><label for="site_id">Site concerne: </label></th>
                             </tr>
                         </thead>
                         <tbody>

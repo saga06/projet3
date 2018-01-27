@@ -5,7 +5,7 @@
   Time: 21:36
   To change this template use File | Settings | File Templates.
 --%>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ page pageEncoding="UTF-8" %>
 <html>
     <c:if test="${empty sessionScope.nickname}">
         <c:redirect url="index.html"></c:redirect>
@@ -41,7 +41,7 @@
                             <th>Description</th>
                             <th>Latitude</th>
                             <th>Longitude</th>
-                            <th>Détails</th>
+                            <th>Details</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -60,7 +60,7 @@
                 </table>
             </div>
             <div class="container">
-                <h3>Tu souhaites ajouter un nouveau site ? Merci de compléter ces champs :</h3>
+                <h3>Vous souhaitez ajouter un nouveau site ? Merci de completer ces champs :</h3>
                 <table class="table table-bordered">
                     <form method="post" action="sites">
                         <thead>
