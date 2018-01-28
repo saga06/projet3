@@ -40,7 +40,9 @@
                             <th>Nom du site concerné</th>
                             <th>Description</th>
                             <%--<th>Disponibilité</th>--%>
-                            <th>Pseudo du proprietaire</th>
+                            <th>Pseudo du propriétaire</th>
+                            <th>Réserver</th>
+
                         </tr>
                     </thead>
                     <tbody>
@@ -62,14 +64,15 @@
                 </table>
             </div>
             <div class="container">
-                <h3>Vous souhaitez ajouter un nouveau topo ? Merci de completer ces champs :</h3>
+                <h3>Vous souhaitez ajouter un nouveau topo ? Merci de compléter ces champs :</h3>
                 <table class="table table-bordered">
                     <form method="post" action="topos">
                         <thead>
                             <tr>
                                 <th><label for="topo_name">Nom : </label></th>
                                 <th><label for="description">Description: </label></th>
-                                <th><label for="site_id">Site concerne: </label></th>
+                                <th><label for="site_id">Site concerné: </label></th>
+                                <th>Ajouter</th>
                             </tr>
                         </thead>
                         <tbody>

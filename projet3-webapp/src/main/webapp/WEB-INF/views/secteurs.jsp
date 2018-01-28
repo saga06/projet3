@@ -35,13 +35,13 @@
         </c:if>
         <div class="maindiv">
             <div class="container">
-                <h2>Ici vous trouverez la liste des secteurs du site selectionne</h2>
+                <h2>Ici vous trouverez la liste des secteurs du site selectionné</h2>
                 <table id="table_id" class="display" class="table table-striped">
                     <thead>
                         <tr>
                             <th>Nom du site</th>
                             <th>Description</th>
-                            <th>Details</th>
+                            <th>Détails</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -56,7 +56,7 @@
                 </table>
             </div>
             <div class="container">
-                <h3>Vous souhaitez ajouter un nouveau secteur a ce site ? Merci de completer ces champs :</h3>
+                <h3>Vous souhaitez ajouter un nouveau secteur à ce site ? Merci de compléter ces champs :</h3>
                 <table class="table table-bordered">
                     <form method="post" action="secteurs">
                         <input type="hidden" name="Parameter-Name" value="value1">
@@ -76,17 +76,17 @@
                         </tbody>
                     </form>
                 </table>
-                <h3>Liste des commentaires precedents: </h3>
+                <h3>Liste des commentaires précédents: </h3>
                 <c:forEach var="infoComment" items="${ infoComments }">
-                    <p>L'utilisateur : <b><c:out value="${ infoComment.user_nickname }" /></b> a laisse le commentaire suivant :</p>
+                    <p>L'utilisateur : <b><c:out value="${ infoComment.user_nickname }" /></b> a laissé le commentaire suivant :</p>
                     <p>"<c:out value="${ infoComment.content }" />"</p>
                     <hr>
                 </c:forEach>
-                <h3>Vous souhaitez ajouter un commentaire concernant ce site ?</br> Exprimez vous ici :</h3>
+                <h3>Vous souhaitez ajouter un commentaire concernant ce site ?</br> Exprimez-vous ici :</h3>
 
                 <form method="post" action="secteurs">
                     <input type="hidden" name="Parameter-Name" value="value2">
-                    <textarea name="content" id="content" rows="4" cols="100" placeholder="Vous pouvez ecrire quelque chose ici"></textarea>
+                    <textarea name="content" id="content" rows="4" cols="100" placeholder="Vous pouvez écrire quelque chose ici"></textarea>
                     <input type="hidden" name="user_nickname" id="user_nickname" value="${sessionScope.nickname}">
                     <input type="hidden" name="site_id" id="site_id" value="${ID}">
                     <input type="submit" value="Ajouter" style="margin-bottom: 20px;margin-left: 50px">

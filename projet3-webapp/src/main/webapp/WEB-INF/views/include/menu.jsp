@@ -31,9 +31,9 @@
             <h1 class="section-title">Si tu veux atteindre le sommet, n'observe pas la montagne, escalade-là !</h1>
         </div>
         <div class="section-right">
-        <form action="logout" method="post">
-            <input type="submit" class="learn-more" value="Déconnexion">
-        </form>
+            <form action="logout" method="post">
+                <input type="submit" class="learn-more" value="Déconnexion">
+            </form>
         </div>
     </div>
 </section>

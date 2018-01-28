@@ -32,7 +32,7 @@
         <%@include file="include/menu.jsp"%>
         <div class="maindiv">
             <div class="container">
-                <h2>Ici tu trouveras la liste des points de la voie sélectionnée</h2>
+                <h2>Ici vous trouverez la liste des points de la voie sélectionnée</h2>
                 <table id="table_id" class="display" class="table table-striped">
                     <thead>
                         <tr>
@@ -51,7 +51,7 @@
                 </table>
             </div>
             <div class="container">
-                <h3>Tu souhaites ajouter un nouveau point ? Merci de compléter ces champs :</h3>
+                <h3>Vous souhaitez ajouter un nouveau point ? Merci de compléter ces champs :</h3>
                 <table class="table table-bordered">
                     <form method="post" action="points">
                         <thead>

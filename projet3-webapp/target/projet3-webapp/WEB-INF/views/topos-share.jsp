@@ -35,17 +35,17 @@
                 <p></br> <u>Ce topo est déjà réservé pour les dates suivantes :</u> </br></br>
                     <c:forEach var="infoBooking" items="${ infoBookings }">
                         <c:set var="user"><c:out value="${ infoBooking.borrower_nickname }" /></c:set>
-                            <c:if test="${user == sessionScope.nickname}">Tu as réservé ce topo pour la date du <c:out value="${ infoBooking.date }" /> </c:if>
-                            <c:if test="${user != sessionScope.nickname}">Ce topo est réservé par le membre <c:out value="${ infoBooking.borrower_nickname }" /> pour la journée du <c:out value="${ infoBooking.date }" /></c:if>
+                            <c:if test="${user == sessionScope.nickname}">Vous avez réservé ce topo pour la date du <c:out value="${ infoBooking.date }" /> </c:if>
+                            <c:if test="${user != sessionScope.nickname}">Ce topo est réservé par le membre <b><c:out value="${ infoBooking.borrower_nickname }" /></b> pour la journée du <c:out value="${ infoBooking.date }" /></c:if>
                             </br>
                     </c:forEach>
                 </p>
-                <p style="color: green;">Tu souhaites aussi réserver ce topo ? Sélectionnes la date de réservation souhaitée:</p>
+                <p style="color: green;">Vous souhaitez aussi réserver ce topo ? Sélectionnez la date de réservation souhaitée:</p>
                 <p style="color: red"></br><b>(Merci de vérifier que le topo est bien libre à la date désirée !)</b>
                 </p>
                 <form method="post" action="topos-share">
                     <label for="datepicker">Date désirée :</label>
-                        <input type="text" name="date" id="datepicker">
+                        <input type="text" name="date" id="datepicker" required>
                     <input type="hidden" name="topo_id" id="topo_id" value="${ID}"/>
                     <input type="hidden" name="nickname" id="nickname" value="${sessionScope.nickname}"/>
                     <input type="submit" value="Réserver">
