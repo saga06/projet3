@@ -67,11 +67,7 @@
 
 
   <modules>
-    <module>projet3-batch</module>
     <module>projet3-webapp</module>
-    <module>projet3-business</module>
-    <module>projet3-consumer</module>
-    <module>projet3-model</module>
   </modules>
 
   <!-- ============================================================= -->
@@ -80,31 +76,13 @@
     <dependencyManagement>
         <dependencies>
           <!-- ==== Modules ====-->
-          <dependency>
-            <groupId>org.oc.escalade</groupId>
-            <artifactId>projet3-batch</artifactId>
-            <version>1.0-SNAPSHOT</version>
-          </dependency>
+
           <dependency>
             <groupId>org.oc.escalade</groupId>
             <artifactId>projet3-webapp</artifactId>
             <version>1.0-SNAPSHOT</version>
           </dependency>
-          <dependency>
-            <groupId>org.oc.escalade</groupId>
-            <artifactId>projet3-business</artifactId>
-            <version>1.0-SNAPSHOT</version>
-          </dependency>
-          <dependency>
-            <groupId>org.oc.escalade</groupId>
-            <artifactId>projet3-consumer</artifactId>
-            <version>1.0-SNAPSHOT</version>
-          </dependency>
-          <dependency>
-            <groupId>org.oc.escalade</groupId>
-            <artifactId>projet3-model</artifactId>
-            <version>1.0-SNAPSHOT</version>
-          </dependency>
+
           <dependency>
               <groupId>org.springframework</groupId>
               <artifactId>spring-framework-bom</artifactId>
@@ -151,12 +129,7 @@
 <!-- ========================================================================== -->
 
 <build>
-	<resources>
-		<resource>
-			<directory>src/main/resources</directory>
-			<filtering>true</filtering>
-		</resource>
-	</resources>
+
     <pluginManagement>
         <plugins>
             <!-- Packaging WAR -->

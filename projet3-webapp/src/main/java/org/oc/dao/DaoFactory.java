@@ -23,8 +23,8 @@ public class DaoFactory {
     }
 
     private static final String FICHIER_PROPERTIES       = "/dao.properties";
-    private static final String PROPERTY_URL             = "url";
-    private static final String PROPERTY_DRIVER          = "driver";
+    //private static final String PROPERTY_URL             = "url";
+    //private static final String PROPERTY_DRIVER          = "driver";
     private static final String PROPERTY_NOM_UTILISATEUR = "nomutilisateur";
     private static final String PROPERTY_MOT_DE_PASSE    = "motdepasse";
 
@@ -40,8 +40,8 @@ public class DaoFactory {
 
         try {
             properties.load( fichierProperties );
-            url = properties.getProperty( PROPERTY_URL );
-            driver = properties.getProperty( PROPERTY_DRIVER );
+            url = "jdbc:postgresql://localhost:5432/projet3";
+            driver = "org.postgresql.Driver";
             nomUtilisateur = properties.getProperty( PROPERTY_NOM_UTILISATEUR );
             motDePasse = properties.getProperty( PROPERTY_MOT_DE_PASSE );
 

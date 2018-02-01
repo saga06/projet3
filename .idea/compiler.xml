@@ -6,10 +6,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="projet3-batch" />
-        <module name="projet3-business" />
-        <module name="projet3-consumer" />
-        <module name="projet3-model" />
         <module name="projet3-webapp" />
       </profile>
     </annotationProcessing>

@@ -31,13 +31,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Spring-4.3.13.RELEASE" level="project" />
-    <orderEntry type="module" module-name="projet3-business" />
-    <orderEntry type="module" module-name="projet3-consumer" />
-    <orderEntry type="library" name="Maven: org.sonatype.sisu:sisu-inject-bean:1.4.2" level="project" />
-    <orderEntry type="library" name="Maven: org.sonatype.sisu:sisu-guice:noaop:2.1.7" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-jdbc:4.3.11.RELEASE" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-tx:4.3.11.RELEASE" level="project" />
-    <orderEntry type="module" module-name="projet3-model" />
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:3.8.1" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: javax.servlet:servlet-api:2.5" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-web:4.3.11.RELEASE" level="project" />

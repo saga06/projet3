@@ -7,19 +7,6 @@
           <element id="module-output" name="projet3-webapp" />
         </element>
         <element id="directory" name="lib">
-          <element id="archive" name="projet3-business-1.0-SNAPSHOT.jar">
-            <element id="module-output" name="projet3-business" />
-          </element>
-          <element id="archive" name="projet3-consumer-1.0-SNAPSHOT.jar">
-            <element id="module-output" name="projet3-consumer" />
-          </element>
-          <element id="library" level="project" name="Maven: org.sonatype.sisu:sisu-inject-bean:1.4.2" />
-          <element id="library" level="project" name="Maven: org.sonatype.sisu:sisu-guice:noaop:2.1.7" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:4.3.11.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-tx:4.3.11.RELEASE" />
-          <element id="archive" name="projet3-model-1.0-SNAPSHOT.jar">
-            <element id="module-output" name="projet3-model" />
-          </element>
           <element id="library" level="project" name="Maven: org.springframework:spring-web:4.3.11.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.3.11.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.3.11.RELEASE" />

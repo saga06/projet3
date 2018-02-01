@@ -3,10 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/projet3.iml" filepath="$PROJECT_DIR$/projet3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/projet3-batch/projet3-batch.iml" filepath="$PROJECT_DIR$/projet3-batch/projet3-batch.iml" />
-      <module fileurl="file://$PROJECT_DIR$/projet3-business/projet3-business.iml" filepath="$PROJECT_DIR$/projet3-business/projet3-business.iml" />
-      <module fileurl="file://$PROJECT_DIR$/projet3-consumer/projet3-consumer.iml" filepath="$PROJECT_DIR$/projet3-consumer/projet3-consumer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/projet3-model/projet3-model.iml" filepath="$PROJECT_DIR$/projet3-model/projet3-model.iml" />
       <module fileurl="file://$PROJECT_DIR$/projet3-webapp/projet3-webapp.iml" filepath="$PROJECT_DIR$/projet3-webapp/projet3-webapp.iml" />
     </modules>
   </component>

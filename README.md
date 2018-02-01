@@ -12,8 +12,8 @@ L’application web est packagée (WAR) avec Apache Maven.
 
 Des scripts SQL de création de la base de données et d'un jeu de données de démo sont présents dans le dossier "Base de donnéees" à la racine du projet.
 
-Pour déployer l'application, il n'y a rien de particulier à faire. C'est un projet fait avec IntelliJ, avec un jdk 1.8.0_111, tomcat.
+C'est un projet fait avec IntelliJ, avec un jdk 1.8.0_111, et tomcat.
 
 Un seul fichier est à modifier. Il s'agit du fichier "dao.properties" qui est peut-être trouvé à ce chemin : projet3\projet3-webapp\src\main\resources\dao.properties
 
-Il vous suffit de modifier l'url, le driver, le nomutilisateur et le motdepasse en fonction de vos paramètres d'accès à PostgreSQL.
+Il vous suffit de modifier le "nomutilisateur" et le "motdepasse" en fonction de vos paramètres de connexion à votre PostgreSQL.

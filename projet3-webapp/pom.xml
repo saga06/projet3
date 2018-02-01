@@ -36,15 +36,7 @@
   <!-- Dépendances -->
   <!-- ============================================================== -->
   <dependencies>
-      <!-- ===== Modules ===== -->
-      <dependency>
-        <groupId>org.oc.escalade</groupId>
-        <artifactId>projet3-business</artifactId>
-      </dependency>
-      <dependency>
-        <groupId>org.oc.escalade</groupId>
-        <artifactId>projet3-model</artifactId>
-      </dependency>
+
 
       <!-- ===== Bibliothèques tierces ===== -->
         <dependency>

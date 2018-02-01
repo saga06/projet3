@@ -23,8 +23,8 @@ public class Register extends HttpServlet {
         String nickname = request.getParameter("nickname");
 
         String FICHIER_PROPERTIES       = "/dao.properties";
-        String PROPERTY_URL             = "url";
-        String PROPERTY_DRIVER          = "driver";
+        //String PROPERTY_URL             = "url";
+        //String PROPERTY_DRIVER          = "driver";
         String PROPERTY_NOM_UTILISATEUR = "nomutilisateur";
         String PROPERTY_MOT_DE_PASSE    = "motdepasse";
 
@@ -38,8 +38,8 @@ public class Register extends HttpServlet {
 
         try{
             properties.load( fichierProperties );
-            url = properties.getProperty( PROPERTY_URL );
-            driver = properties.getProperty( PROPERTY_DRIVER );
+            url = "jdbc:postgresql://localhost:5432/projet3";
+            driver = "org.postgresql.Driver";
             nomUtilisateur = properties.getProperty( PROPERTY_NOM_UTILISATEUR );
             motDePasse = properties.getProperty( PROPERTY_MOT_DE_PASSE );
 

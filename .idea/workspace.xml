@@ -7,34 +7,125 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc21b869-51e4-416e-83d2-aea4bb2d049d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/projet3_webapp_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/projet3_webapp_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/47b66128-a850-4088-86e6-b04cae55cfcc.xml" afterPath="$PROJECT_DIR$/.idea/dataSources/47b66128-a850-4088-86e6-b04cae55cfcc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/47b66128-a850-4088-86e6-b04cae55cfcc/storage_v2/_src_/database/projet3.50yQ7Q/schema/public.abK9xQ.meta" afterPath="$PROJECT_DIR$/.idea/dataSources/47b66128-a850-4088-86e6-b04cae55cfcc/storage_v2/_src_/database/projet3.50yQ7Q/schema/public.abK9xQ.meta" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_2.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_dbcp2_2_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_dbcp2_2_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_dbcp2_2_1_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_9_4_1212.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_9_4_1212.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_sisu_sisu_guice_noaop_2_1_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_sisu_sisu_guice_noaop_2_1_7.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_sisu_sisu_inject_bean_1_4_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_sisu_sisu_inject_bean_1_4_2.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_sisu_sisu_guice_noaop_2_1_7.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_sisu_sisu_inject_bean_1_4_2.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_11_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_11_RELEASE.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_11_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_11_RELEASE.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_11_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_11_RELEASE.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_11_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_11_RELEASE.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_11_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_11_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_11_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_11_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_11_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_11_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_11_RELEASE.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_11_RELEASE.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_11_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_11_RELEASE.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/DB/bdd.backup" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/include/menu.jsp" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/include/menu.jsp" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/longueurs.jsp" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/longueurs.jsp" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/points.jsp" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/points.jsp" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/secteurs.jsp" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/secteurs.jsp" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/sites.jsp" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/sites.jsp" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/topos-share.jsp" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/topos-share.jsp" />
-      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/topos.jsp" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/topos.jsp" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/projet3-batch/pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-batch/projet3-batch.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-batch/src/data/conf/db-projet3.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-batch/src/main/java/org/oc/escalade/batch/App.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-batch/src/test/java/org/oc/escalade/batch/AppTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-batch/target/classes/org/oc/escalade/batch/App.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-batch/target/maven-archiver/pom.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-batch/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-batch/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-batch/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-batch/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-batch/target/projet3-batch-1.0-SNAPSHOT.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-batch/target/surefire-reports/TEST-org.oc.escalade.batch.AppTest.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-batch/target/surefire-reports/org.oc.escalade.batch.AppTest.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-batch/target/test-classes/org/oc/escalade/batch/AppTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-business/pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-business/projet3-business.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-business/src/main/java/org/oc/escalade/business/App.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-business/src/test/java/org/oc/escalade/business/AppTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-business/target/classes/org/oc/escalade/business/App.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-business/target/maven-archiver/pom.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-business/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-business/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-business/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-business/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-business/target/projet3-business-1.0-SNAPSHOT.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-business/target/surefire-reports/TEST-org.oc.escalade.business.AppTest.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-business/target/surefire-reports/org.oc.escalade.business.AppTest.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-business/target/test-classes/org/oc/escalade/business/AppTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-consumer/pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-consumer/projet3-consumer.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-consumer/src/main/java/org/oc/escalade/consumer/App.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-consumer/src/main/java/org/oc/escalade/consumer/contract/dao/ProjetDao.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-consumer/src/main/java/org/oc/escalade/consumer/impl/dao/AbstractDaoImpl.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-consumer/src/main/java/org/oc/escalade/consumer/impl/dao/projetDaoImpl.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-consumer/src/test/java/org/oc/escalade/consumer/AppTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/classes/org/oc/escalade/consumer/App.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/classes/org/oc/escalade/consumer/contract/dao/ProjetDao.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/classes/org/oc/escalade/consumer/impl/dao/AbstractDaoImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/classes/org/oc/escalade/consumer/impl/dao/projetDaoImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/maven-archiver/pom.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/projet3-consumer-1.0-SNAPSHOT.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/surefire-reports/TEST-org.oc.escalade.consumer.AppTest.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/surefire-reports/org.oc.escalade.consumer.AppTest.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-consumer/target/test-classes/org/oc/escalade/consumer/AppTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-model/pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-model/projet3-model.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-model/src/main/java/org/oc/escalade/model/App.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-model/src/test/java/org/oc/escalade/model/AppTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-model/target/classes/org/oc/escalade/model/App.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-model/target/maven-archiver/pom.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-model/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-model/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-model/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-model/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-model/target/projet3-model-1.0-SNAPSHOT.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-model/target/surefire-reports/TEST-org.oc.escalade.model.AppTest.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-model/target/surefire-reports/org.oc.escalade.model.AppTest.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-model/target/test-classes/org/oc/escalade/model/AppTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/pom.xml" afterPath="$PROJECT_DIR$/projet3-webapp/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/projet3-webapp.iml" afterPath="$PROJECT_DIR$/projet3-webapp/projet3-webapp.iml" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/bdd/Validate.java" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/bdd/Validate.java" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/DaoFactory.java" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/DaoFactory.java" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Register.java" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Register.java" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/resources/dao.properties" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/resources/dao.properties" />
       <change beforePath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/index.html" afterPath="$PROJECT_DIR$/projet3-webapp/src/main/webapp/index.html" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/dao.properties" afterPath="$PROJECT_DIR$/projet3-webapp/target/classes/dao.properties" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/bdd/Validate.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/bdd/Validate.class" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/dao/DaoFactory.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/dao/DaoFactory.class" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/forms/Register.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/classes/org/oc/forms/Register.class" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp.war" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp.war" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/META-INF/MANIFEST.MF" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/dao.properties" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/dao.properties" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/bdd/Validate.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/bdd/Validate.class" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/dao/DaoFactory.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/dao/DaoFactory.class" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/forms/Register.class" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/classes/org/oc/forms/Register.class" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/lib/projet3-business-1.0-SNAPSHOT.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/lib/projet3-consumer-1.0-SNAPSHOT.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/lib/projet3-model-1.0-SNAPSHOT.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/lib/sisu-guice-2.1.7-noaop.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/lib/sisu-inject-bean-1.4.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/lib/spring-jdbc-4.3.11.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/WEB-INF/lib/spring-tx-4.3.11.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/jsp/_include/about.jsp" afterPath="$PROJECT_DIR$/projet3-webapp/target/projet3-webapp/jsp/_include/about.jsp" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/oc/escalade/App.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/oc/escalade/AppTest.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/projet3-consumer/target/" />
@@ -63,41 +154,6 @@
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="projet3@localhost" type="feb32156:DbDataSourceImpl" />
       </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="projet3@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="projet3@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="projet3: database" type="6d9b600a:PostgresImplModel$Database" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="projet3@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="projet3: database" type="6d9b600a:PostgresImplModel$Database" />
-        <item name="public: schema" type="a16502c0:PostgresImplModel$Schema" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="projet3@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="projet3: database" type="6d9b600a:PostgresImplModel$Database" />
-        <item name="public: schema" type="a16502c0:PostgresImplModel$Schema" />
-        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="projet3@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="projet3: database" type="6d9b600a:PostgresImplModel$Database" />
-        <item name="public: schema" type="a16502c0:PostgresImplModel$Schema" />
-        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="topo_booking: table" type="a93d6ac6:PostgresImplModel$LocalTable" />
-      </path>
     </expand>
     <select />
   </component>
@@ -106,31 +162,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="64" column="43" lean-forward="false" selection-start-line="64" selection-start-column="43" selection-end-line="64" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="161" column="30" lean-forward="false" selection-start-line="161" selection-start-column="27" selection-end-line="161" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dao.properties" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/resources/dao.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="17" />
+            <state relative-caret-position="357">
+              <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -153,8 +189,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Secteur</find>
-      <find>longu</find>
       <find>longueur</find>
       <find>infoCommentDao</find>
       <find>session</find>
@@ -183,6 +217,8 @@
       <find>passwo</find>
       <find>tu</find>
       <find>war</find>
+      <find>dao.prop</find>
+      <find>properties.getProperty( PROPERTY_URL )</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\sgahama\eclipse-workspace\projet3\projet3-webapp\src\main</dir>
@@ -201,7 +237,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoVoieDao.java" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoLongueurDaoImpl.java" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Longueur.java" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/InfoPoint.java" />
@@ -230,7 +265,6 @@
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/welcome.jsp" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/css/goodbye.css" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/goodbye.jsp" />
-        <option value="$PROJECT_DIR$/projet3-webapp/pom.xml" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/accueil.jsp" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoTopoDaoImpl.java" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/include/taglibs.jsp" />
@@ -238,20 +272,22 @@
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/voies.jsp" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/dao.properties" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Login.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/bdd/Validate.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/DaoFactory.java" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoBookingDaoImpl.java" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Logout.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Register.java" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/resources/dao.properties" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/longueurs.jsp" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/points.jsp" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/include/menu.jsp" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/secteurs.jsp" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/sites.jsp" />
-        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/index.html" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/topos-share.jsp" />
         <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/topos.jsp" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/bdd/Validate.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Register.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/DaoFactory.java" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/resources/dao.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/projet3-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/projet3-webapp/src/main/webapp/index.html" />
       </list>
     </option>
   </component>
@@ -291,7 +327,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="926" />
     <option name="y" value="341" />
     <option name="width" value="974" />
@@ -361,7 +397,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -378,124 +413,27 @@
               <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
               <item name="projet3" type="462c0819:PsiDirectoryNode" />
               <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projet3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
               <item name="projet3" type="462c0819:PsiDirectoryNode" />
-              <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projet3" type="462c0819:PsiDirectoryNode" />
-              <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projet3" type="462c0819:PsiDirectoryNode" />
-              <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projet3" type="462c0819:PsiDirectoryNode" />
-              <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oc" type="462c0819:PsiDirectoryNode" />
-              <item name="bdd" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projet3" type="462c0819:PsiDirectoryNode" />
-              <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oc" type="462c0819:PsiDirectoryNode" />
-              <item name="beans" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projet3" type="462c0819:PsiDirectoryNode" />
-              <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oc" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projet3" type="462c0819:PsiDirectoryNode" />
-              <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oc" type="462c0819:PsiDirectoryNode" />
-              <item name="forms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projet3" type="462c0819:PsiDirectoryNode" />
-              <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oc" type="462c0819:PsiDirectoryNode" />
-              <item name="servlets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projet3" type="462c0819:PsiDirectoryNode" />
-              <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projet3" type="462c0819:PsiDirectoryNode" />
-              <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projet3" type="462c0819:PsiDirectoryNode" />
-              <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="projet3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projet3" type="462c0819:PsiDirectoryNode" />
-              <item name="projet3-webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -757,11 +695,13 @@
       <workItem from="1517058167562" duration="9797000" />
       <workItem from="1517068860401" duration="951000" />
       <workItem from="1517104792834" duration="6644000" />
+      <workItem from="1517417509914" duration="821000" />
+      <workItem from="1517493485463" duration="4845000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="421635000" />
+    <option name="totallyTimeSpent" value="427301000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -773,7 +713,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -782,22 +722,22 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32056892" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.077292114" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14925373" sideWeight="0.48166665" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34336677" sideWeight="0.45895523" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3429844" sideWeight="0.45682302" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20512821" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18720601" sideWeight="0.5410448" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.4978678" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26528692" sideWeight="0.5399787" order="15" side_tool="true" content_ui="tabs" x="4" y="522" width="1870" height="317" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.4978678" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3429844" sideWeight="0.54317695" order="15" side_tool="true" content_ui="tabs" x="4" y="522" width="1870" height="317" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24832962" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.080267556" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20989583" sideWeight="0.771978" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20362474" sideWeight="0.771978" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.01119403" sideWeight="0.22802198" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.344098" sideWeight="0.39392325" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -833,7 +773,7 @@
           <option name="timeStamp" value="59" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="141" />
+      <option name="time" value="170" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -842,21 +782,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/WEB-INF/views/mm.jsp" />
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="43" column="18" lean-forward="false" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="610">
-          <caret line="359" column="19" lean-forward="false" selection-start-line="359" selection-start-column="19" selection-end-line="359" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/servlets/Welcome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -897,14 +822,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="100" column="38" lean-forward="false" selection-start-line="100" selection-start-column="38" selection-end-line="100" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1031,38 +948,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/bdd/Validate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="10" column="52" lean-forward="false" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/beans/InfoVoie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/DaoFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="68" column="34" lean-forward="true" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoBookingDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-630">
-          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -1079,16 +968,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Register.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
@@ -1115,7 +994,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1207,18 +1085,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/index.html">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/oc/escalade/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="64" column="43" lean-forward="false" selection-start-line="64" selection-start-column="43" selection-end-line="64" selection-end-column="43" />
+        <state relative-caret-position="102">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/oc/escalade/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/resources/org.oc.escalade.projet3.webapp/webappContent.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/InfoBookingDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1609#1622#0" expanded="false" />
+            <marker date="1517068740287" expanded="true" signature="1018:1131" ph="INSERT INTO topo_booking... " />
+            <marker date="1517068740287" expanded="true" signature="1848:1992" ph="SELECT topo_... topo_booking" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/dao/DaoFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="42" column="59" lean-forward="false" selection-start-line="42" selection-start-column="59" selection-end-line="42" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/bdd/Validate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="6" lean-forward="false" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <folding>
+            <marker date="1517502582430" expanded="true" signature="1697:1744" ph="select * fro... users" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="161" column="30" lean-forward="false" selection-start-line="161" selection-start-column="27" selection-end-line="161" selection-end-column="30" />
+        <state relative-caret-position="-410">
+          <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-648">
+          <caret line="38" column="5" lean-forward="false" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -1226,7 +1159,25 @@
     <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/resources/dao.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="17" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/java/org/oc/forms/Register.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding>
+            <marker date="1517502603721" expanded="true" signature="2061:2135" ph="insert into users... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet3-webapp/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
           <folding />
         </state>
       </provider>
