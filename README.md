@@ -1,19 +1,23 @@
-projet3
+Projet 3
 
-Ce projet a pour but d'échanger des infos sur les différents sites d'escalade.
+Ce projet a pour but d'Ã©changer des infos sur les diffÃ©rents sites d'escalade.
 
-Il permet : - de partager des informations sur les sites, leurs secteurs et les voies de chaque secteur (hauteur, cotation, nombre de points…) - de faire une recherche multi-critères pour trouver votre prochain site de grimpe - de laisser des commentaires - de présenter les topo qui existent et les sites/secteurs qu’ils couvrent - d’avoir un espace de prêt de topo (les propriétaires de topo peuvent proposer le prêt de leur topo et les gens intéressés peuvent voir les topo disponibles et les réserver pour une période)
+Il permet : 
+- de partager des informations sur les sites, leurs secteurs et les voies de chaque secteur (hauteur, cotation, nombre de pointsâ€¦) - de faire une recherche multi-critÃ¨res pour trouver votre prochain site de grimpe 
+- de laisser des commentaires 
+- de prÃ©senter les topo qui existent et les sites/secteurs quâ€™ils couvrent 
+- dâ€™avoir un espace de prÃªt de topo (les propriÃ©taires de topo peuvent proposer le prÃªt de leur topo et les gens intÃ©ressÃ©s peuvent voir les topo disponibles et les rÃ©server pour une pÃ©riode)
 
 C'est une application web en Java/JEE (JDK 8).
 
-L’application est à déployer sur un serveur Apache Tomcat 9 et utilise une base de données PostgreSQL 9.x.
+Lâ€™application est Ã  dÃ©ployer sur un serveur Apache Tomcat 9 et utilise une base de donnÃ©es PostgreSQL 9.x.
 
-L’application web est packagée (WAR) avec Apache Maven.
+Lâ€™application web est packagÃ©e (WAR) avec Apache Maven.
 
-Des scripts SQL de création de la base de données et d'un jeu de données de démo sont présents dans le dossier "Base de donnéees" à la racine du projet.
+Des scripts SQL de crÃ©ation de la base de donnÃ©es et d'un jeu de donnÃ©es de dÃ©mo sont prÃ©sents dans le dossier "Base de donnÃ©ees" Ã  la racine du projet.
 
 C'est un projet fait avec IntelliJ, avec un jdk 1.8.0_111, et tomcat.
 
-Un seul fichier est à modifier. Il s'agit du fichier "dao.properties" qui est peut-être trouvé à ce chemin : projet3\projet3-webapp\src\main\resources\dao.properties
+Un seul fichier est Ã  modifier. Il s'agit du fichier "dao.properties" que l'on trouve Ã  cet emplacement : projet3\projet3-webapp\src\main\resources\dao.properties
 
-Il vous suffit de modifier le "nomutilisateur" et le "motdepasse" en fonction de vos paramètres de connexion à votre PostgreSQL.
+Il vous suffit de modifier le "nomutilisateur" et le "motdepasse" en fonction de vos paramÃ¨tres de connexion Ã  votre PostgreSQL.
