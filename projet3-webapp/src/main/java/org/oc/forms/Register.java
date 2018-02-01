@@ -23,7 +23,7 @@ public class Register extends HttpServlet {
         String nickname = request.getParameter("nickname");
 
         String FICHIER_PROPERTIES       = "/dao.properties";
-        //String PROPERTY_URL             = "url";
+        String PROPERTY_URL             = "url";
         //String PROPERTY_DRIVER          = "driver";
         String PROPERTY_NOM_UTILISATEUR = "nomutilisateur";
         String PROPERTY_MOT_DE_PASSE    = "motdepasse";
@@ -38,7 +38,7 @@ public class Register extends HttpServlet {
 
         try{
             properties.load( fichierProperties );
-            url = "jdbc:postgresql://localhost:5432/projet3";
+            url = properties.getProperty( PROPERTY_URL );
             driver = "org.postgresql.Driver";
             nomUtilisateur = properties.getProperty( PROPERTY_NOM_UTILISATEUR );
             motDePasse = properties.getProperty( PROPERTY_MOT_DE_PASSE );
@@ -73,6 +73,7 @@ public class Register extends HttpServlet {
         catch(Exception se)
         {
             se.printStackTrace();
+            out.println("Erreur de connexion avec la base de données, merci de réessayer ultérieurement");
         }
 
     }

@@ -11,7 +11,7 @@ public class Validate
     //this class is ONLY for the login verification part of the app
 {
     private static final String FICHIER_PROPERTIES       = "/dao.properties";
-    //private static final String PROPERTY_URL             = "url";
+    private static final String PROPERTY_URL             = "url";
     //private static final String PROPERTY_DRIVER          = "driver";
     private static final String PROPERTY_NOM_UTILISATEUR = "nomutilisateur";
     private static final String PROPERTY_MOT_DE_PASSE    = "motdepasse";
@@ -32,7 +32,7 @@ public class Validate
         try{
 
             properties.load( fichierProperties );
-            url = "jdbc:postgresql://localhost:5432/projet3";
+            url = properties.getProperty( PROPERTY_URL );
             driver = "org.postgresql.Driver";
             nomUtilisateur = properties.getProperty( PROPERTY_NOM_UTILISATEUR );
             motDePasse = properties.getProperty( PROPERTY_MOT_DE_PASSE );
